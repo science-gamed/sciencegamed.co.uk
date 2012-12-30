@@ -1,23 +1,28 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\000033}}
 body {
   font-family: 'Open Sans', 'Georgia', 'serif';
   font-size: 10px;
   color: #333; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\000039}}
 h2 {
   font-size: 2.4em;
   font-weight: bold; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000314}}
 p {
   font-size: 1.4em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000318}}
+a {
+  color: #003fdb;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000323}}
 .main {
   width: 100%; }
   @media screen and (min-width: 640px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000323}}
     .main {
       width: 70%;
       padding: 0 2em 0 0;
@@ -26,11 +31,11 @@ p {
       -moz-box-sizing: border-box;
       box-sizing: border-box; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000334}}
 .aside {
   width: 100%; }
   @media screen and (min-width: 640px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/main\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/main\.scss}line{font-family:\0000334}}
     .aside {
       width: 30%;
       float: left; } }

@@ -1,16 +1,19 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/nav\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/nav\.scss}line{font-family:\000031}}
 .nav {
   width: 100%;
   text-align: center;
   background-color: #eee; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/nav\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/nav\.scss}line{font-family:\000036}}
   .nav ul {
     display: inline-block;
     margin: 0 auto;
     padding: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed-co-uk\/project\/sass-styles\/nav\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/nav\.scss}line{font-family:\0000312}}
   .nav li {
     display: inline-block;
     list-style: none;
     font-size: 1.4em;
     padding: 1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Dropbox\/dev\/sciencegamed\.co\.uk\/project\/sass-styles\/nav\.scss}line{font-family:\0000318}}
+    .nav li:hover {
+      background-color: #ddd; }
