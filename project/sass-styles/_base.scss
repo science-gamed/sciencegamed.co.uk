@@ -1,0 +1,16 @@
+// Define your mixins and variables here, then add the following line to
+// your other .scss files:
+//
+//     @import "base";
+//
+// (Yes, "base" and not "_base" - it is a SASS convention which means
+// 'this file is a partial and should not be compiled by itself'
+
+$blue: #055bff;
+$red: #c60005;
+
+@mixin border-box {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}

@@ -1,0 +1,18 @@
+.nav {
+	width: 100%;
+	text-align: center;
+	background-color: #eee;
+
+	ul {
+		display: inline-block;
+		margin: 0 auto;
+		padding: 0;
+	}
+
+	li {
+		display: inline-block;
+		list-style: none;
+		font-size: 1.4em;
+		padding: 1em;
+	}
+}
