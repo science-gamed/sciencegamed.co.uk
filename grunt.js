@@ -35,23 +35,14 @@ module.exports = function(grunt) {
 			}
 		},
 
-		// Copy the files we need from the src folder to build/tmp
+		// Copy the files we need from the src folder to appfog/public
 		copy: {
 			src: {
 				files: {
-					'build/tmp/': [ 'project/src/index.html', 'project/src/min.css', 'project/src/assets/**', 'project/src/data/**' ]
+					'appfog/public/': [ 'project/src/*.html', 'project/src/min.css', 'project/src/assets/**' ]
 				},
 				options: {
 					basePath: 'project/src'
-				}
-			}
-		},
-		
-		// Compress contents of `build/tmp` and save to `build/zip` with a timestamp
-		compress: {
-			zip: {
-				files: {
-					'build/zip/build-<%= grunt.template.today("yyyy-mm-dd_HH-MM-ss") %>.zip': 'build/tmp/**'
 				}
 			}
 		},
@@ -64,7 +55,6 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-contrib-mincss');
 	grunt.loadNpmTasks('grunt-contrib-requirejs');
-	grunt.loadNpmTasks('grunt-contrib-compress');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-shell');
 
@@ -73,7 +63,6 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'optim', [ 'shell:imageOptim' ] );
 	
 	grunt.registerTask( 'build', [ 'default', 'copy' ] );
-	grunt.registerTask( 'zip', [ 'compress' ] ); // just an alias
 
 	// Default task.
 	grunt.registerTask( 'default', [ 'shell:sassupdate', 'mincss' ] );
