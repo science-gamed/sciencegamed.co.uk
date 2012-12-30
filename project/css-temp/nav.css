@@ -2,7 +2,7 @@
 .nav {
   width: 100%;
   text-align: center;
-  padding-left: 8em;
+  padding: 0 8em;
   position: relative;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;

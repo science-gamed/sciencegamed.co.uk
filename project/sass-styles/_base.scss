@@ -13,3 +13,19 @@ $blue: #003fdb;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+@mixin clearfix {
+	&:before,
+	&:after {
+	    content: " "; /* 1 */
+	    display: table; /* 2 */
+	}
+
+	&:after {
+	    clear: both;
+	}
+
+	& {
+	    *zoom: 1;
+	}
+}
