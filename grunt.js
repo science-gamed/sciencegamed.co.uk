@@ -8,12 +8,12 @@ module.exports = function(grunt) {
 		// the relevant tasks will execute
 		watch: {
 			sass: {
-				files: 'project/sass-styles/*.scss',
+				files: 'project/styles/*.scss',
 				tasks: 'shell:sassupdate',
 				interrupt: true
 			},
 			css: {
-				files: 'project/css-temp/*',
+				files: 'tmp/css/*',
 				tasks: 'mincss',
 				interrupt: true
 			}
@@ -22,15 +22,15 @@ module.exports = function(grunt) {
 		// Compile .scss files
 		shell: {
 			sassupdate: {
-				command: 'rm -r project/css-temp/*; sass --update -f --debug-info project/sass-styles:project/css-temp'
+				command: 'rm -r tmp/css/*; sass --update -f --debug-info project/styles:tmp/css'
 			}
 		},
 		
-		// Concatenate all the files in project/css-temp and minify as project/src/min.css
+		// Concatenate all the files in tmp/css and minify as project/src/min.css
 		mincss: {
 			compress: {
 				files: {
-					'project/src/min.css': 'project/css-temp/*.css'
+					'project/src/min.css': 'tmp/css/*.css'
 				}
 			}
 		},
