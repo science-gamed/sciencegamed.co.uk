@@ -16,6 +16,11 @@ module.exports = function(grunt) {
 				files: 'tmp/css/*',
 				tasks: 'mincss',
 				interrupt: true
+			},
+			data: {
+				files: 'project/content/**/*',
+				tasks: 'parseContent',
+				interrupt: true
 			}
 		},
 
@@ -49,6 +54,37 @@ module.exports = function(grunt) {
 
 		open: {
 			root: 'project/src'
+		},
+
+		// Parse markdown content into JSON
+		parse: {
+			blog: {
+				src: 'project/content/blogposts/**/*.md',
+				dest: 'project/data/blogposts.json',
+				parser: 'markdown-to-json'
+			},
+
+			articles: {
+				src: 'project/content/articles/**/*.md',
+				dest: 'project/data/articles.json',
+				parser: 'markdown-to-json'
+			}
+		},
+
+		// Combine contents of `project/data` into a single `data.json` file
+		data: {
+			root: 'project/data/',
+			dest: 'project/data.json'
+		},
+
+		generate: {
+			data: 'project/data.json',
+
+			generators: [
+				'blog-post',
+				'blog-index',
+				'blog-tag-pages'
+			]
 		}
 
 	});
@@ -59,12 +95,16 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-shell');
 
 	grunt.loadNpmTasks('gui-open');
+	grunt.loadNpmTasks('gui-data');
+
+	grunt.loadNpmTasks('sg-parse');
+	grunt.loadNpmTasks('sg-generate');
 
 	grunt.registerTask( 'optim', [ 'shell:imageOptim' ] );
 	
 	grunt.registerTask( 'build', [ 'default', 'copy' ] );
 
 	// Default task.
-	grunt.registerTask( 'default', [ 'shell:sassupdate', 'mincss' ] );
+	grunt.registerTask( 'default', [ 'shell:sassupdate', 'mincss', 'parse', 'data', 'generate' ] );
 
 };

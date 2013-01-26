@@ -1,0 +1,5 @@
+<div class='blog-post-preview'>
+	<h3><a href='/blog/{{{path}}}'>{{title}}</a></h3>
+	{{#tags.length}}<p>Filed under {{#tags}}<a href='/blog/tags/{{slug}}.html'>{{name}}</a> {{/tags}}{{/tags.length}}
+	{{{html}}}
+</div>
