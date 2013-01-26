@@ -83,7 +83,9 @@ module.exports = function(grunt) {
 			generators: [
 				'blog-post',
 				'blog-index',
-				'blog-tag-pages'
+				'blog-tag-pages',
+
+				'article'
 			]
 		}
 
