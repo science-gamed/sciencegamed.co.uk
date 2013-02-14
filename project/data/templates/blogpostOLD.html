@@ -4,11 +4,10 @@
 	<meta charset='utf-8'>
 	<title>{{title}} | Science: Gamed</title>
 	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
+	<meta name='description' content='{{summary}}'>
 
-	<!-- Google Web Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Varela+Round|Dosis:400,700' rel='stylesheet'>
-
-	<!-- Site CSS -->
+	<!-- CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet'>
 	<link rel='stylesheet' href='/min.css'>
 </head>
 
@@ -16,7 +15,7 @@
 
 	
 	<div class='header'>
-		<div class='nav non-index-nav'>
+		<div class='nav'>
 			<div class='logo'></div>
 
 			<ul>
@@ -28,20 +27,16 @@
 		</div>
 	</div>
 
-	<div class='content'>
-		<div class='main'>
-			<div class='block'>
-				{{#posts}}
-				{{>blogpost}}
-				{{/posts}}
-			</div>
+	<div class='main'>
+		<div class='block'>
+			{{>blogpost}}
 		</div>
+	</div>
 
 
-		<div class='aside'>
-			<div class='block'>
-				<h2>aside content goes here...</h2>
-			</div>
+	<div class='aside'>
+		<div class='block'>
+			{{{sidebar}}}
 		</div>
 	</div>
 
@@ -49,5 +44,8 @@
 	<div class='footer'>
 		<p>Science: Gamed LLP registered no. OC371281. Website content and design copyright &copy; 2012</p>
 	</div>
+
+	<!-- JavaScript -->
+	<script src='/js/main.js' async></script>
 </body>
 </html>

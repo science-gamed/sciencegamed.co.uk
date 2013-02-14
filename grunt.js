@@ -60,13 +60,13 @@ module.exports = function(grunt) {
 		parse: {
 			blog: {
 				src: 'project/content/blogposts/**/*.md',
-				dest: 'project/data/blogposts.json',
+				dest: 'project/data/content/blogposts.json',
 				parser: 'markdown-to-json'
 			},
 
 			articles: {
 				src: 'project/content/articles/**/*.md',
-				dest: 'project/data/articles.json',
+				dest: 'project/data/content/articles.json',
 				parser: 'markdown-to-json'
 			}
 		},
@@ -81,6 +81,8 @@ module.exports = function(grunt) {
 			data: 'project/data.json',
 
 			generators: [
+				'meta',
+				
 				'blog-post',
 				'blog-index',
 				'blog-tag-pages',

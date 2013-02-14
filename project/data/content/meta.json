@@ -1,0 +1,17 @@
+[
+	{
+		"path": "about.html",
+		"title": "About",
+		"content": "about"
+	},
+	{
+		"path": "thank-you.html",
+		"title": "Thank you",
+		"content": "emailThankYou"
+	},
+	{
+		"path": "please-confirm.html",
+		"title": "Please confirm your subscription",
+		"content": "emailPleaseConfirm"
+	}
+]

@@ -3,7 +3,5 @@
 .block {
 	width: 100%;
 	@include border-box;
-	background-color: #eee;
-	padding: 1em;
 	margin: 0 0 2em 0;
 }
