@@ -1,0 +1,5 @@
+<div class='post'>
+	<h1>{{title}}</h1>
+	{{#tags.length}}<p>Filed under {{#tags}}<a href='/{{pathPrefix}}/tags/{{slug}}.html'>{{name}}</a> {{/tags}}{{/tags.length}}
+	{{{html}}}
+</div>

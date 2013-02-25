@@ -1,0 +1,12 @@
+@import "base";
+
+.mugshot {
+	width: 10em;
+	height: 10em;
+	margin: 0 1em 1em 0;
+	background-color: #eee;
+	border: 1px solid #999;
+	padding: 1em;
+	@include border-box;
+	float: left;
+}
