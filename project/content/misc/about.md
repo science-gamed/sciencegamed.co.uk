@@ -10,11 +10,13 @@ Our mission is to create games that promote scientific literacy &ndash; not by b
 
 <div class='left'>
 	<h2>Rich Chatwin</h2>
+	<div class='mugshot'>mugshot goes here</div>
 	<p>Started his gaming career over two decades ago with <em>Eye of the Beholder</em>. Rich is the brains behind the operation, with a degree in biology from Imperial College London and business training from Tesco.com.</p>
 </div>
 
 
 <div class='right'>
 	<h2>Rich Harris</h2>
+	<div class='mugshot'>mugshot goes here</div>
 	<p>First wrote a game aged five on an Acorn Archimedes using BBC BASIC V. Rich (the other Rich) is a philosophy graduate from UCL who geeks out over open source software and web standards, and serves as the lead developer.</p>
 </div>
