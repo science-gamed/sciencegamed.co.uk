@@ -1,6 +1,8 @@
 @import "base";
 
 .post-preview {
+	clear: both;
+
 	.thumbnail {
 		width: 12em;
 		float: left;
@@ -13,6 +15,12 @@
 	.main-image {
 		display: block;
 		margin: 0 auto;
+	}
+
+	.caption {
+		color: #999;
+		font-size: 0.8em;
+		text-align: center;
 	}
 
 	img {
