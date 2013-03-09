@@ -6,7 +6,7 @@ module.exports = function ( data, helpers, render ) {
 	data.content.misc.forEach( function ( item ) {
 		pages[ pages.length ] = {
 			path: item.path,
-			data: render( data.templates.base, { content: item.html })
+			data: render( data.templates.base, { content: item.html, title: item.title })
 		};
 	});
 
