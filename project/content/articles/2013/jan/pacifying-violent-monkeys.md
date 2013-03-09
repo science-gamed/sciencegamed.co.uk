@@ -3,8 +3,8 @@ title: Pacifying violent monkeys
 summary: How do you get an aggressive rhesus monkey to chill the fuck out?
 author: Rich Chatwin
 date: 2013-01-26
-image: http://static.sciencegamed.co.uk/images/rhesus-macaque.jpg
-thumbnail: http://static.sciencegamed.co.uk/images/rhesus-macaque.jpg
+image: http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg
+thumbnail: http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg
 tags: Monkey Panic, Frans BM de Waal, Donald Lindburg, Ethology, Rhesus monkeys
 ```
 

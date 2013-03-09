@@ -1,12 +1,12 @@
 module.exports = function ( data, helpers, render ) {
 	var posts, mustacheData;
 
-	posts = data.content.blogposts.sort( require( 'sortByDate' ) ).slice( 0, 5 );
+	posts = data.content.articles.sort( require( 'sortByDate' ) ).slice( 0, 5 );
 
 	mustacheData = {
-		title: 'Our blog',
+		title: 'Science stuff',
 		posts: posts,
-		pathPrefix: 'blog'
+		pathPrefix: 'science'
 	};
 
 	return render( data.templates.postIndex, mustacheData );

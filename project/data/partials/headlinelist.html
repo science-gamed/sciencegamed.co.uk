@@ -1,6 +1,6 @@
-recent blog posts...
+<h2>{{subtitle}}</h2>
 <ul>
-{{#.}}
-	<li><a href='/blog/{{{path}}}'>{{title}}</a></li>
-{{/.}}
+{{#posts}}
+	<li><a href='/{{pathPrefix}}/{{{path}}}'>{{title}}</a></li>
+{{/posts}}
 </ul>

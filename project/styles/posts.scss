@@ -1,0 +1,21 @@
+@import "base";
+
+.post-preview {
+	.thumbnail {
+		width: 12em;
+		float: left;
+		margin: 0 1em 1em 0;
+		border: 1px solid #eee;
+	}
+}
+
+.post {
+	.main-image {
+		display: block;
+		margin: 0 auto;
+	}
+
+	img {
+		max-width: 100%;
+	}
+}

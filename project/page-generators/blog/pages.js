@@ -13,7 +13,7 @@ module.exports = function ( data, helpers, render ) {
 
 		pages[ pages.length ] = {
 			path: post.path,
-			data: render( data.templates.post, post )
+			data: render( data.templates.blogpost, post )
 		};
 	}
 
