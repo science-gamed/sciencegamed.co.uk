@@ -3,9 +3,9 @@ title: Konrad Lorenz and his baby geese
 summary: How to get baby geese to follow you around-forever
 author: Rich Chatwin
 date: 2013-03-09
-image: http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg
-caption: 
-thumbnail: http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg
+image: http://static.sciencegamed.co.uk/images/blog/2013/mar/konrad-lorenz.jpg
+caption: Imprinting is a powerful instinct
+thumbnail: http://static.sciencegamed.co.uk/images/blog/2013/mar/konrad-lorenz-thumb.jpg
 tags: Konrad Lorenz, Animal Behaviour
 ```
 
