@@ -6,6 +6,7 @@
 // (Yes, "base" and not "_base" - it is a SASS convention which means
 // 'this file is a partial and should not be compiled by itself'
 
+$grey: #333333;
 $blue: #003fdb;
 
 @mixin border-box {

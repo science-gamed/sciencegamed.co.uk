@@ -37,3 +37,16 @@
 		margin: 0;
 	}
 }
+
+.science-gamed {
+	font-family: 'Unica One';
+	font-size: 1.4em;
+
+	.science {
+		color: $grey;
+	}
+
+	.gamed {
+		color: $blue;
+	}
+}
