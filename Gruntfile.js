@@ -3,7 +3,7 @@ module.exports = function(grunt) {
 
 	// Project configuration.
 	grunt.initConfig({
-		
+
 		// Main watch task. Kick this off by entering `grunt watch`. Now, any time you change the files below,
 		// the relevant tasks will execute
 		watch: {
@@ -15,7 +15,13 @@ module.exports = function(grunt) {
 
 			content: {
 				files: 'project/content/**/*',
-				tasks: 'parseContent',
+				tasks: 'parse',
+				interrupt: true
+			},
+
+			data: {
+				files: 'project/data/**/*',
+				tasks: [ 'dir2json', 'generate:partials', 'generate:pages' ],
 				interrupt: true
 			}
 		},
@@ -162,6 +168,7 @@ module.exports = function(grunt) {
 
 	});
 
+	grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-sass');
