@@ -2,8 +2,6 @@
 title: Please confirm your subscriptions
 ```
 
-# Thanks! Now check your inbox
+# Thanks! Almost there...
 
-You've been subscribed to the Monkey Panic list &ndash; all you need to do is click the link in the email we've just sent you.
-
-Thanks!
+Please click the link in the email we've just sent you to confirm your subscription to the Monkey Panic mailing list. We'll see you back here in a moment.
