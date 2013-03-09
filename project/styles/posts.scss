@@ -12,9 +12,17 @@
 }
 
 .post {
+	.tags {
+		margin: 0 0 1em 0;
+	}
+
 	.main-image {
-		display: block;
-		margin: 0 auto;
+		margin: 0 0 1em 0;
+
+		img {
+			display: block;
+			margin: 0 auto 0.5em auto;
+		}
 	}
 
 	.caption {

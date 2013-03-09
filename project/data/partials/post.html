@@ -1,9 +1,17 @@
 <div class='post'>
 	<h1>{{title}}</h1>
-	{{#tags.length}}<p>Tagged under {{#tags}}<a href='/{{pathPrefix}}/tags/{{slug}}.html'>{{name}}</a> {{/tags}}{{/tags.length}}
+	{{#tags.length}}
+		<div class='tags'>
+			<p>Tagged under {{#tags}}<a href='/{{pathPrefix}}/tags/{{slug}}.html'>{{name}}</a> {{/tags}}
+		</div>
+	{{/tags.length}}
+
 	{{#image}}
-		<img class='main-image' src='{{image}}'>
-		{{#caption}}<div class='caption'>{{{caption}}}</div>{{/caption}}
+		<div class='main-image'>
+			<img src='{{image}}'>
+			{{#caption}}<div class='caption'>{{{caption}}}</div>{{/caption}}
+		</div>
 	{{/image}}
+
 	{{{html}}}
 </div>

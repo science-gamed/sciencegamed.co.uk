@@ -35,5 +35,30 @@
 		"previewHtml": "<p>One of the monkey species featured in <a href=\"/monkey-panic.html\">Monkey Panic</a>, Rhesus monkeys (<em>Macaca mulatta</em>) are notoriously quarrelsome and violent, with many different vocal signals for aggressive situations <sup class='cite-ref'><a href=\"#lindberg\">1</a></sup>.</p>",
 		"markdown": "One of the monkey species featured in [Monkey Panic](/monkey-panic.html), Rhesus monkeys (*Macaca mulatta*) are notoriously quarrelsome and violent, with many different vocal signals for aggressive situations <sup class='cite-ref'>[1](#lindberg)</sup>.\n\n<!-- break -->\n\nBut have you read about an experiment where they were placed with the calmer and more tolerant stumptail monkeys (*M. arctoides*). Being mixed with these calmer monkeys had a notable effect on the aggressive Rhesus monkeys, even after the calm stumptail monkeys were removed.\n\n[Read more about the experiment here.](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0020101)\n\n<sup class='cite-note' id='lindberg'>[1]</sup> **Lindburg DG. (1971)** \"The rhesus monkey in north India : an ecological and behavioral study\". In: Rosenblum LA, editor. *Primate behavior: developments in field and laboratory research, Volume 2*. New York : Academic Pr. pp 1-106.",
 		"html": "<p>One of the monkey species featured in <a href=\"/monkey-panic.html\">Monkey Panic</a>, Rhesus monkeys (<em>Macaca mulatta</em>) are notoriously quarrelsome and violent, with many different vocal signals for aggressive situations <sup class='cite-ref'><a href=\"#lindberg\">1</a></sup>.</p>\n\n<!-- break -->\n\n<p>But have you read about an experiment where they were placed with the calmer and more tolerant stumptail monkeys (<em>M. arctoides</em>). Being mixed with these calmer monkeys had a notable effect on the aggressive Rhesus monkeys, even after the calm stumptail monkeys were removed.</p>\n\n<p><a href=\"http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0020101\">Read more about the experiment here.</a></p>\n\n<p><sup class='cite-note' id='lindberg'>[1]</sup> <strong>Lindburg DG. (1971)</strong> \"The rhesus monkey in north India : an ecological and behavioral study\". In: Rosenblum LA, editor. <em>Primate behavior: developments in field and laboratory research, Volume 2</em>. New York : Academic Pr. pp 1-106.</p>"
+	},
+	{
+		"id": "konrad-lorenz-and-his-baby-geese",
+		"tags": [
+			{
+				"name": "Konrad Lorenz",
+				"slug": "Konrad-Lorenz"
+			},
+			{
+				"name": "Animal Behaviour",
+				"slug": "Animal-Behaviour"
+			}
+		],
+		"thumbnail": "http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg",
+		"caption": "",
+		"image": "http://static.sciencegamed.co.uk/images/blog/2013/mar/monkey-gun.jpg",
+		"date": "2013-03-09T00:00:00.000Z",
+		"author": "Rich Chatwin",
+		"summary": "How to get baby geese to follow you around-forever",
+		"title": "Konrad Lorenz and his baby geese",
+		"path": "2013/mar/konrad-lorenz-and-his-baby-geese.html",
+		"previewMarkdown": "Lorenz was one of the founding fathers of animal behaviour (ethology). He won a Nobel Prize for his work, sharing it with Nikolaas Tinbergen and Karl von Frisch..\n\n",
+		"previewHtml": "<p>Lorenz was one of the founding fathers of animal behaviour (ethology). He won a Nobel Prize for his work, sharing it with Nikolaas Tinbergen and Karl von Frisch..</p>",
+		"markdown": "Lorenz was one of the founding fathers of animal behaviour (ethology). He won a Nobel Prize for his work, sharing it with Nikolaas Tinbergen and Karl von Frisch..\n\n<!-- break -->\n\nHe researched the area of ‘imprinting’- the behaviour of some animals, like birds, to identify a parent when they are very young, and then to follow this parent around whilst they are dependent on them. \n\n\nLonrenz identified he key time period during which baby geese ‘imprint’ the image of their parent. (12-17 hours after hatching). \n\n[Read more here.](http://en.wikipedia.org/wiki/Konrad_Lorenz)\n[and here.](http://ajp.psychiatryonline.org/article.aspx?articleID=177087)",
+		"html": "<p>Lorenz was one of the founding fathers of animal behaviour (ethology). He won a Nobel Prize for his work, sharing it with Nikolaas Tinbergen and Karl von Frisch..</p>\n\n<!-- break -->\n\n<p>He researched the area of ‘imprinting’- the behaviour of some animals, like birds, to identify a parent when they are very young, and then to follow this parent around whilst they are dependent on them. </p>\n\n<p>Lonrenz identified he key time period during which baby geese ‘imprint’ the image of their parent. (12-17 hours after hatching). </p>\n\n<p><a href=\"http://en.wikipedia.org/wiki/Konrad_Lorenz\">Read more here.</a>\n<a href=\"http://ajp.psychiatryonline.org/article.aspx?articleID=177087\">and here.</a></p>"
 	}
 ]
