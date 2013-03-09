@@ -50,6 +50,14 @@ module.exports = function(grunt) {
 
 		// Copy the files we need from the src folder to appfog/public
 		copy: {
+			generated: {
+				files: [{
+					expand: true,
+					cwd: 'generated',
+					src: ['**'],
+					dest: 'appfog/public'
+				}]
+			},
 			root: {
 				files: [{
 					expand: true,
@@ -158,7 +166,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-clean');
-	
+
 
 	grunt.loadNpmTasks('grunt-dir2json');
 
@@ -168,7 +176,15 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'build', [ 'default', 'clean:appfog', 'copy' ] );
 
 	// Default task.
-	grunt.registerTask( 'default', [ 'clean:tmp', 'clean:generated', 'sass', 'parse', 'dir2json', 'generate:partials', 'generate:pages' ] );
+	grunt.registerTask( 'default', [
+		'clean:tmp',
+		'clean:generated',
+		'sass',
+		'parse',
+		'dir2json',
+		'generate:partials',
+		'generate:pages'
+	]);
 
 	// aliases
 	grunt.registerTask( 'server', 'connect:server' );
