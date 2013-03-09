@@ -1,6 +1,9 @@
 <div class='post'>
 	<h1>{{title}}</h1>
 	{{#tags.length}}<p>Tagged under {{#tags}}<a href='/{{pathPrefix}}/tags/{{slug}}.html'>{{name}}</a> {{/tags}}{{/tags.length}}
-	{{#image}}<img class='main-image' src='{{image}}'>{{/image}}
+	{{#image}}
+		<img class='main-image' src='{{image}}'>
+		{{#caption}}<div class='caption'>{{{caption}}}</div>{{/caption}}
+	{{/image}}
 	{{{html}}}
 </div>
