@@ -2,21 +2,25 @@
 title: About us
 ```
 
-<h1>About us</h1>
+# About us
 
-We love science. We also love games. And one day, we realised that the two are connected &ndash; both are about *understanding systems*. The best games invite you into their world and say 'these are the rules: what can you discover?'
+We love science. We also love games. And one day, we realised that the two are connected. The best games invite you into their world and say 'these are the rules: what can you discover?'
 
-Our mission is to create games that promote scientific literacy &ndash; not by beating people over the head with it, but by creating worlds that model scientific phenomena and inviting players to discover their own love of science.
+We want to invite you into our games, so you can discover the natural world.
+
+<span class='science-gamed'><span class='science'>Science:</span> <span class='gamed'>Gamed</span></span> was founded with one goal in mind: to inspire people with science, through games. We want people to be able to find out about both fundamental, established scientific principles and cutting edge research by having fun playing a game, without any prior knowledge required.
+
+But our games are built for everyone. If you're not a science nerd yet, we'll turn you into one. Promise. 
 
 <div class='left'>
 	<h2>Rich Chatwin</h2>
-	<div class='mugshot'>mugshot goes here</div>
+	<img class='mugshot' src='http://static.sciencegamed.co.uk/images/mugshots/rac.jpg'>
 	<p>Started his gaming career over two decades ago with <em>Eye of the Beholder</em>. Rich is the brains behind the operation, with a degree in biology from Imperial College London and business training from Tesco.com.</p>
 </div>
 
 
 <div class='right'>
 	<h2>Rich Harris</h2>
-	<div class='mugshot'>mugshot goes here</div>
+	<img class='mugshot' src='http://static.sciencegamed.co.uk/images/mugshots/rah.jpg'>
 	<p>First wrote a game aged five on an Acorn Archimedes using BBC BASIC V. Rich (the other Rich) is a philosophy graduate from UCL who geeks out over open source software and web standards, and serves as the lead developer.</p>
 </div>
