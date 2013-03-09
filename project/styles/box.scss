@@ -1,0 +1,8 @@
+@import "base";
+
+.box {
+	background-color: rgba(255,255,255,0.8);
+	padding: 0.5em;
+	border-radius: 0.3em;
+	@include border-box;
+}

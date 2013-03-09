@@ -17,8 +17,8 @@
 
 		a {
 			display: inline-block;
-			font-size: 1.4em;
-			padding: 1em;
+			font-size: 0.8em;
+			padding: 0.8em;
 
 			&:hover {
 				background-color: rgba(0,0,0,0.1);
@@ -28,7 +28,7 @@
 }
 
 .index-nav {
-	padding: 0 8em;
+	padding: 0 6em;
 	text-align: center;
 }
 
@@ -42,11 +42,11 @@
 		position: absolute;
 		left: 0;
 		top: 0;
-		width: 22.5em;
+		width: 15em;
 		height: 100%;
 		padding: 0;
 		background: url(assets/logo-small.svg) 0 50% no-repeat;
-		background-size: 22.5em 3em;
+		background-size: 15em 2em;
 	}
 
 	ul {
