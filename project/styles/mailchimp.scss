@@ -1,3 +1,5 @@
+@import "base";
+
 #mc_embed_signup {
 	// font:14px Helvetica,Arial,sans-serif;
 
@@ -5,7 +7,37 @@
 		padding: 0;
 	}
 
-	label, input.button {
+	input {
+		position: relative;
+		@include border-box;
+		padding: 0.2em;
+		height:2em;
+		font-size: 1em;
+		display: block;
+		float: left;
+	}
+
+	input.email {
+		font-family: 'Varela Round', 'Arial';
+		width: 75%;
+		border: 1px solid #eee;
+		border-radius: 0.3em 0 0 0.3em;
+		z-index: 2;
+	}
+
+	input.button {
+		background-color: #eee;
+		border: none;
+		width: 25%;
+		height: 2em;
 		font-family: Dosis;
+		border-radius: 0 0.3em 0.3em 0;
+		z-index: 1;
+		cursor: pointer;
+
+		&:hover {
+			background-color: #333;
+			color: white;
+		}
 	}
 }
