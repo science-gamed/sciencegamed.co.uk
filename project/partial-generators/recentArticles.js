@@ -16,5 +16,7 @@ module.exports = function ( data, helpers, render ) {
 		pathPrefix: 'science'
 	};
 
-	return render( data.partials.headlinelist, mustacheData );
+	rendered = render( data.partials.headlinelist, mustacheData );
+
+	return rendered;
 };
