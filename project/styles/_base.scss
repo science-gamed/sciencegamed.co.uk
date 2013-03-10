@@ -6,8 +6,11 @@
 // (Yes, "base" and not "_base" - it is a SASS convention which means
 // 'this file is a partial and should not be compiled by itself'
 
-$grey: #333333;
-$blue: #003fdb;
+//$grey: #333333;
+//$blue: #003fdb;
+
+$grey: #5c5c5c;
+$blue: #3365e2;
 
 @mixin border-box {
 	-webkit-box-sizing: border-box;
