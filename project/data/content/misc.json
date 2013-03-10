@@ -12,10 +12,10 @@
 		"id": "please-confirm",
 		"title": "Please confirm your subscriptions",
 		"path": "please-confirm.html",
-		"previewMarkdown": "# Thanks! Now check your inbox\n\nYou've been subscribed to the Monkey Panic list &ndash; all you need to do is click the link in the email we've just sent you.\n\nThanks!",
-		"previewHtml": "<h1>Thanks! Now check your inbox</h1>\n\n<p>You've been subscribed to the Monkey Panic list &ndash; all you need to do is click the link in the email we've just sent you.</p>\n\n<p>Thanks!</p>",
-		"markdown": "# Thanks! Now check your inbox\n\nYou've been subscribed to the Monkey Panic list &ndash; all you need to do is click the link in the email we've just sent you.\n\nThanks!",
-		"html": "<h1>Thanks! Now check your inbox</h1>\n\n<p>You've been subscribed to the Monkey Panic list &ndash; all you need to do is click the link in the email we've just sent you.</p>\n\n<p>Thanks!</p>"
+		"previewMarkdown": "# Thanks! Almost there...\n\nPlease click the link in the email we've just sent you to confirm your subscription to the Monkey Panic mailing list. We'll see you back here in a moment.",
+		"previewHtml": "<h1>Thanks! Almost there...</h1>\n\n<p>Please click the link in the email we've just sent you to confirm your subscription to the Monkey Panic mailing list. We'll see you back here in a moment.</p>",
+		"markdown": "# Thanks! Almost there...\n\nPlease click the link in the email we've just sent you to confirm your subscription to the Monkey Panic mailing list. We'll see you back here in a moment.",
+		"html": "<h1>Thanks! Almost there...</h1>\n\n<p>Please click the link in the email we've just sent you to confirm your subscription to the Monkey Panic mailing list. We'll see you back here in a moment.</p>"
 	},
 	{
 		"id": "thank-you",
