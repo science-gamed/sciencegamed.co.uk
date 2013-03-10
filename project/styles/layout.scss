@@ -1,0 +1,52 @@
+@import "base";
+
+$main-width: 35em;
+$aside-width: 20em;
+
+$padding: 1em;
+$gutter: 1em;
+
+
+
+.content {
+	padding: 0 $padding;
+	margin: 0 auto;
+	@include border-box;
+
+	.main {
+		@include clearfix;
+	}
+
+	.aside {
+		img {
+			max-width: 100%;
+		}
+	}
+}
+
+
+// small
+@media (max-width: 58em) {
+	.content {
+		max-width: $main-width;
+	}
+}
+
+
+
+@media (min-width: 58em) {
+	.content {
+		width: $main-width + $aside-width + ($gutter + (2 * $padding)); // add 2em for padding and 1em for gutter
+
+		.main {
+			float: left;
+			width: $main-width;
+			margin-right: $gutter;
+		}
+
+		.aside {
+			float: left;
+			width: $aside-width;
+		}
+	}
+}
