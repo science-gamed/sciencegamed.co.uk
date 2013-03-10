@@ -31,12 +31,14 @@
 		width: 25%;
 		height: 2em;
 		font-family: Dosis;
+		font-weight: bold;
+		color: $blue;
 		border-radius: 0 0.3em 0.3em 0;
 		z-index: 1;
 		cursor: pointer;
 
 		&:hover {
-			background-color: #333;
+			background-color: $blue;
 			color: white;
 		}
 	}
