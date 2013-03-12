@@ -18,6 +18,6 @@ He researched the area of ‘imprinting’- the behaviour of some animals, like 
 
 Lonrenz identified he key time period during which baby geese ‘imprint’ the image of their parent. (12-17 hours after hatching). 
 
-[Read more here.](http://en.wikipedia.org/wiki/Konrad_Lorenz)
-[and here.](http://ajp.psychiatryonline.org/article.aspx?articleID=177087)
+[Read more here](http://en.wikipedia.org/wiki/Konrad_Lorenz)
+and [here.](http://ajp.psychiatryonline.org/article.aspx?articleID=177087)
 
