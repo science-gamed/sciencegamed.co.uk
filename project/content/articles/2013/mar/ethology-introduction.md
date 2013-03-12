@@ -1,4 +1,4 @@
-``
+```
 title: Welcome to Ethology!
 summary: An introduction to animal behaviour
 author: Rich Chatwin
@@ -18,6 +18,6 @@ Ethology is comparitively recent, having only really got started around the 1930
 
 If you think and list all the areas of modern human life which rely on animals, you’ll see how important the field of ethology is. It is particularly important because it focuses on studying animal behaviour in a natural setting, not in the laboratory.
 
-Find out more about ethology [here.] (http://en.wikipedia.org/wiki/Ethology)
+Find out more about ethology [here](http://en.wikipedia.org/wiki/Ethology).
 
 
