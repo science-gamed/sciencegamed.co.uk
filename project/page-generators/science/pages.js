@@ -9,7 +9,7 @@ module.exports = function ( data, helpers, render ) {
 	while ( i-- ) {
 		post = posts[ i ];
 
-		post.pathPrefix = 'articles';
+		post.pathPrefix = 'science';
 
 		pages[ pages.length ] = {
 			path: post.path,
