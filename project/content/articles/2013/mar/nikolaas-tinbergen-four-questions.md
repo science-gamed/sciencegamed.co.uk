@@ -15,16 +15,18 @@ Arguably Tinbergen’s most famous contribution were the ‘four questions’ ar
 <!-- break -->
 
 **‘How’ (Proximate) questions**
-1.	Mechanism (Causation) – how does the behaviour get elicited? What signals are required and what pathways within the animal (for example neural pathways) are involved?
-2.	Development (Ontogeny)- how does the behaviour change with age, experience and environment?
+
+* Mechanism (Causation) – how does the behaviour get elicited? What signals are required and what pathways within the animal (for example neural pathways) are involved?
+* Development (Ontogeny)- how does the behaviour change with age, experience and environment?
 
 **‘Why’ (Ultimate) questions**
-3.	Evolution (Phylogeny) – how did evolution and earlier generations/species contribute to this certain behaviour?
-4.	Function (Adaptation) – how does this behaviour help the organism/species survive?
+
+* Evolution (Phylogeny) – how did evolution and earlier generations/species contribute to this certain behaviour?
+* Function (Adaptation) – how does this behaviour help the organism/species survive?
 
 
 
-Read more [here.] (http://en.wikipedia.org/wiki/Tinbergen's_four_questions)
+Read more [here.](http://en.wikipedia.org/wiki/Tinbergen's_four_questions)
 
-And [here.] (http://en.wikipedia.org/wiki/Nikolaas_Tinbergen)
+And [here.](http://en.wikipedia.org/wiki/Nikolaas_Tinbergen)
 

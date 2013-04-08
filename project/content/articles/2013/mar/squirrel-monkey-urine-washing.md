@@ -12,7 +12,7 @@ Seen in the game, squirrel monkeys (there are 5 different species) communicate u
 
 <!-- break -->
 
-Squirrel monkeys also use olfactory (smell)/ chemical communication. The ‘urine-washing’ display is found in males and females of any age, and can be used to signal dominance, or for self-cleaning, or for enhanced gripping on branches.  
+Squirrel monkeys also use olfactory (smell)/ chemical communication. The ‘urine-washing’ display is found in males and females of any age, and can be used to signal dominance, or for self-cleaning, or for enhanced gripping on branches.
 
 
 For more info on Saimiri including its urine washing, see [here](http://pin.primate.wisc.edu/factsheets/entry/squirrel_monkey/behav).
