@@ -1,11 +1,11 @@
-``
+```
 title: Nikolas Tinbergen and his 4 questions
 summary: The fundamental questions of animal behaviour
 author: Rich Chatwin
 date: 2013-03-23
 image: http://static.sciencegamed.co.uk/images/blog/2013/mar/nikolaas-tinbergen.jpg
 caption: Nikolaas Tinbergen- a founding father of animal behaviour
-thumbnail: http://static.sciencegamed.co.uk/images/blog/2013/mar/nikolaas-tinbergen.jpg
+thumbnail: http://static.sciencegamed.co.uk/images/blog/2013/mar/nikolaas-tinbergen-thumb.jpg
 tags: Animal Behaviour, Monkey Panic, Nikolaas Tinbergen
 ```
 A Dutch ethologist and ornithologist, Tinbergen received the 1973 Nobel Prize in Physiology or Medicine along with Lorenz and von Frisch for their work on animal behaviour.
