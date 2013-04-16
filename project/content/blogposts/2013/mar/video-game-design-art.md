@@ -10,6 +10,8 @@ So we’ve been hard at work this week finalising the game design of Monkey Pani
 
 Game design is about creating the mechanics (rules, rewards, punishments, etc) for the game. It’s probably not something you’ve thought about because any good games you’ve played will have been designed so well, you won’t notice that you’re learning a new set of rules to play them with.  Also, you’ll only be playing with the final design, which are actually based on many iterations of failed designs before them.
 
+<!-- break -->
+
 To frame this thought, let’s take two famous board games- Risk and Monopoly. Think about the rules for a second- how long do you think it took them to perfect the balance of starting positions and army sizes in Risk? Or the price of properties in Monopoly? Or even just the amount of money each player got for passing 'Go'? I hope you see how complex these seemingly simple rules are during the design process.
 
 We’re having similar discussions/tribulations with Monkey Panic – which is why it’s kind of sad to see articles like [this.](http://www.guardian.co.uk/artanddesign/jonathanjonesblog/2012/nov/30/moma-video-games-art) saying that video games aren’t art. 
