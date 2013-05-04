@@ -10,6 +10,8 @@ If video games and the media were a couple, they'd be the loud, passionate/obnox
 
 But what about video games and science? A less obvious pair like the quiet couple by the wall, perhaps, but as is often the case, a couple of more integrity, sense and history than the loud couple everyone notices.
 
+<!-- break -->
+
 As video game popularity has grown over the last two decades, so its study in scientific circles has increased. This ranges from the more classic studies, [like the effect of games on people](http://www.rockpapershotgun.com/2011/11/23/natures-neuroscientific-review-of-games/), using video game technology to [support and augment scientific study](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0057990) to actually creating video games that are scientific experiments ([Foldit](http://fold.it/portal/) is a good example).
 
 Thinking about this, it becomes apparent that there are actually some neat parallels between science and video games. Below are a few that sprang to mind-
