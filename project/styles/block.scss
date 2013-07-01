@@ -4,4 +4,8 @@
 	width: 100%;
 	@include border-box;
 	margin: 0 0 2em 0;
+
+	&:last-child {
+		margin: 0;
+	}
 }
