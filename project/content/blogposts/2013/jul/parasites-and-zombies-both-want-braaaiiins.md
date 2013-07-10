@@ -48,8 +48,8 @@ Once in the killifish, the parasites alter the fish’s behaviour to make it 30 
 
 Interestingly, the mechanism is similar to the *T.gondii* parasite- it supresses a common stress response in the fish and also makes them visit the water surface more often, increasing their chances of getting caught by shorebirds.
 
-![The snowy egret is a host for *Euhaplorchis californiensis* ](http://upload.wikimedia.org/wikipedia/commons/8/81/Egretta_thula1.jpg)
-<sup>The snowy egret is a host for *Euhaplorchis californiensis*.</sup>
+![The killifish is a host for *Euhaplorchis californiensis* ](http://upload.wikimedia.org/wikipedia/commons/6/65/Fundulopanchax_gardneri.png)
+<sup>'I have a sudden urge to get myself noticed'</sup>
 
 ##*__Dicrocoelium dendriticum__*
 ###**Unlucky victim** - Ant###
