@@ -65,13 +65,13 @@ The unlucky news for us is that humans can also get infected, through eating und
 ![‘Something tells me I should just hang here for awhile’](http://en.citizendium.org/images/3/39/800px-Ant_on_leaf.jpg)
 <sup>‘Something tells me I should just hang here for awhile’ <br> (Image courtesy of http://en.citizendium.org/wiki/dicrocoelium_dendriticum)</sup>
 
-And so ends our trip amongst a few lesser known parasites that alter behaviour. If we look back at our ‘zombie-checklist’ form earlier:
+And so ends our trip amongst a few lesser known parasites that alter behaviour. If we look back at our ‘zombie-checklist’ from earlier:
 
 1.	An infection is the causative agent- check, in these cases a lovely parasite.
 2.	Behaviour altering? Yep. 
 3.	Biting spreads the infection. Ok so not really, but hey - two out of three ain’t bad (as Meatloaf sang).
 
-Ok, so there are some differences. For one, in no instance are any hosts ‘dead’ but still functioning- they’re always alive. Also none of them cause their hosts to start eating their friends- but once you move past that you’ll see what you thought were the realms of fantasy are actually grounded firmly in reality. Although you shouldn't be too worried about seeing a human zombie shuffle past any time soon.
+Ok, so there are some differences. For one, in no instance are any hosts ‘dead’ but still functioning- they’re always alive. Also none of them cause their hosts to start eating their friends- but once you move past that you’ll see what you thought were the realms of fantasy are actually grounded firmly in reality. And despite two of the three being known to infect humans, as we are not standard hosts for these parasites the effect they have (if any) is wildly different to what they do during their natural lifecycle, so you shouldn't be too worried about seeing a human zombie shuffle past any time soon.
 
 There are probably some of you who have been shouting and screaming throughout this article, “What about Rabies!?”. Well, you’d be right. The rabies virus does present itself as a very likely [source for zombies and, perhaps surprisingly, vampires, in popular culture.](http://www.theverge.com/2013/4/18/4201878/sick-idea-how-rabies-spawned-vampires-and-zombies) 
 
