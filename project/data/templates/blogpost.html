@@ -21,6 +21,13 @@
 			<div class='block'>
 				{{>post}}
 			</div>
+
+			<div class='block'>
+				<script>
+					disqus_identifier = '{{pathPrefix}}/{{{path}}}';
+				</script>
+				{{>disqus}}
+			</div>
 		</div>
 
 
