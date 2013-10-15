@@ -2,6 +2,6 @@
 tmp/
 gubbins/
 .sass-cache/
-appfog/
 generated/
 project/images/
+node_modules/
