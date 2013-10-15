@@ -17,6 +17,8 @@ It also helps to remind us all of just how amazing (and scary) nature really is.
 
 But have you heard about the other things in nature that can turn animals into zombies by targeting the brain and changing behaviour? 
 
+<!-- break -->
+
 If you think of your standard zombie apocalypse, it can be summarised in these three points:
 
 1.	An infection of some kind is the causative agent
@@ -25,20 +27,22 @@ If you think of your standard zombie apocalypse, it can be summarised in these t
 
 Well guess what.....nature already does that. Luckily Mother Nature isn’t a patent troll, so Romero can keep his cash. Here's a look at a few of the behaviour-altering parasites from nature that you (probably) have never heard of.
 
-##*__Toxoplasma gondii__*##
+## Toxoplasma gondii
 
-###**Unlucky victims** – Rodents###
+### Unlucky victims – Rodents
 
 A parasite that can only sexually reproduce in cats, when *T.gondii* infects a rodent (which can be done through eating infected cat faeces or anything that has touched it), it needs to find a way to get back into a cat.  Cue a little behavioural change in the rodent. [Experiments have shown](http://www.ncbi.nlm.nih.gov/pubmed/11007336) that infected rodents are less averse to cat odours than normal, thereby increasing their chance of getting caught by a cat. Good for *T.gondii*, bad for mousey.
 
 Other warm-blooded mammals can be infected by ingesting infected substances, **including humans**. Although rodents are the only species that seems to undergo a severe behavioural change, it is thought that *T.gondii* has been [responsible for schizophrenia and depression in humans.](http://www.biomedcentral.com/1471-244X/4/1)
 
-![Thousands of *T.gondii* parasites in a cyst inside mouse brain tissue.](http://upload.wikimedia.org/wikipedia/commons/3/3c/Toxoplasma_gondii_tissue_cyst_in_mouse_brain.jpg)
-<sup>Thousands of *T.gondii* parasites (stained red) in a cyst inside mouse brain tissue.</sup>
+<figure>
+	<img alt='Thousands of *T.gondii* parasites in a cyst inside mouse brain tissue' src='http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Toxoplasma_gondii_tissue_cyst_in_mouse_brain.jpg/640px-Toxoplasma_gondii_tissue_cyst_in_mouse_brain.jpg'>
+	<figcaption>Thousands of *T.gondii* parasites (stained red) in a cyst inside mouse brain tissue. Image: [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Toxoplasma_gondii_tissue_cyst_in_mouse_brain.jpg)</figcaption>
+</figure>
 
-##*__Euhaplorchis californiensis__* 
+## Euhaplorchis californiensis
 
-###**Unlucky victims** - Killifish###
+### Unlucky victims - Killifish
 
 Known as a ‘brain-encysting trematode’, this parasite’s lifecycle is: shorebird- hornsnail- killifish. After sexually reproducing and finishing its lifecycle in a shorebird, its eggs are released in the bird’s droppings. Hornsnails, which consume the droppings (as they graze) act as the first intermediary host.
 
@@ -48,11 +52,13 @@ Once in the killifish, the parasites alter the fish’s behaviour to make it 30 
 
 Interestingly, the mechanism is similar to the *T.gondii* parasite- it supresses a common stress response in the fish and also makes them visit the water surface more often, increasing their chances of getting caught by shorebirds.
 
-![The killifish is a host for *Euhaplorchis californiensis* ](http://upload.wikimedia.org/wikipedia/commons/6/65/Fundulopanchax_gardneri.png)
-<sup>'I have a sudden urge to get myself noticed'</sup>
+<figure>
+	<img alt='The killifish is a host for *Euhaplorchis californiensis*' src='http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fundulopanchax_gardneri.png/640px-Fundulopanchax_gardneri.png'>
+	<figcaption>‘I have a sudden urge to get myself noticed.’ Image: [Wikimedia Commons/Violaine2](http://en.wikipedia.org/wiki/File:Fundulopanchax_gardneri.png)</figcaption>
+</figure>
 
-##*__Dicrocoelium dendriticum__*
-###**Unlucky victim** - Ant###
+## Dicrocoelium dendriticum
+### Unlucky victims - Ants
 
 Yes, it’s the poor ant again (they are also a [host of the parasitic fungus *Cordyceps* mentioned earlier](http://www.youtube.com/watch?v=XuKjBIBBAL8)), and another Trematode, or parasite worm, or “fluke” as they’re sometimes called.
 
@@ -62,8 +68,10 @@ Most of the parasites stay in the ant’s main body cavity (the haemocoel) whils
 
 The unlucky news for us is that humans can also get infected, through eating undercooked infected animal liver. This leads to a ‘pseudoparasite’ infection, because it is temporary- the parasites will survive in the intestine but be released from the body by defecation. For a more serious infection, you’d need to eat the two intermediary hosts- snails or ants (seriously, [it can happen](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660816/)- drinking water with an ant in it or eating raw salad or vegetables containing infected ants).
 
-![‘Something tells me I should just hang here for awhile’](http://en.citizendium.org/images/3/39/800px-Ant_on_leaf.jpg)
-<sup>‘Something tells me I should just hang here for awhile’ <br> (Image courtesy of http://en.citizendium.org/wiki/dicrocoelium_dendriticum)</sup>
+<figure>
+	<img alt='‘Something tells me I should just hang here for awhile’' src='http://en.citizendium.org/images/3/39/800px-Ant_on_leaf.jpg'>
+	<figcaption>‘Something tells me I should just hang here for awhile’ Image: [Citizendium](http://en.citizendium.org/wiki/dicrocoelium_dendriticum)</figcaption>
+</figure>
 
 And so ends our trip amongst a few lesser known parasites that alter behaviour. If we look back at our ‘zombie-checklist’ from earlier:
 
@@ -76,7 +84,5 @@ Ok, so there are some differences. For one, in no instance are any hosts ‘dead
 There are probably some of you who have been shouting and screaming throughout this article, “What about Rabies!?”. Well, you’d be right. The rabies virus does present itself as a very likely [source for zombies and, perhaps surprisingly, vampires, in popular culture.](http://www.theverge.com/2013/4/18/4201878/sick-idea-how-rabies-spawned-vampires-and-zombies) 
 
 The fact is, it’s quite surprising that *The Last of Us* is really the first big game to utilise parts of nature like this, because when you look at it, there really are some weird, funky and downright gruesome things that happen in the natural world- all, oddly enough, in the name of survival - just not the host’s survival.
-
-*All images courtesy of Wikimedia Commons, unless otherwise stated.*
 
 
