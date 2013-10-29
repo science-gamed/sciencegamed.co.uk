@@ -1,0 +1,258 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\000033}}
+body {
+  font-family: 'Venus Rising', 'Arial';
+  font-size: 16px;
+  color: #353535;
+  margin: 0;
+  line-height: 1.2;
+  background-color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\0000312}}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Aldrich', 'Arial';
+  margin: 0 0 1em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\0000316}}
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
+  margin: 0 0 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\0000321}}
+p {
+  font-family: 'Share Tech Mono','Arial';
+  margin: 0 0 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\0000326}}
+a {
+  text-decoration: none;
+  color: #07e011;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/base\.scss}line{font-family:\0000331}}
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: 'Saber';
+  src: url("assets/fonts/saber-webfont.eot");
+  src: url("assets/fonts/saber-webfont.eot?#iefix") format("embedded-opentype"), url("assets/fonts/saber-webfont.woff") format("woff"), url("assets/fonts/saber-webfont.ttf") format("truetype"), url("assets/fonts/saber-webfont.svg#saberregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Locust Resistance';
+  src: url("assets/fonts/cgf_locust_resistance-webfont.eot");
+  src: url("assets/fonts/cgf_locust_resistance-webfont.eot?#iefix") format("embedded-opentype"), url("assets/fonts/cgf_locust_resistance-webfont.woff") format("woff"), url("assets/fonts/cgf_locust_resistance-webfont.ttf") format("truetype"), url("assets/fonts/cgf_locust_resistance-webfont.svg#cgf_locust_resistanceregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neuropol X';
+  src: url("assets/fonts/neuropol_x_free-webfont.eot");
+  src: url("assets/fonts/neuropol_x_free-webfont.eot?#iefix") format("embedded-opentype"), url("assets/fonts/neuropol_x_free-webfont.woff") format("woff"), url("assets/fonts/neuropol_x_free-webfont.ttf") format("truetype"), url("assets/fonts/neuropol_x_free-webfont.svg#neuropol_x_freeregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Venus Rising';
+  src: url("assets/fonts/venus_rising_rg-webfont.eot");
+  src: url("assets/fonts/venus_rising_rg-webfont.eot?#iefix") format("embedded-opentype"), url("assets/fonts/venus_rising_rg-webfont.woff") format("woff"), url("assets/fonts/venus_rising_rg-webfont.ttf") format("truetype"), url("assets/fonts/venus_rising_rg-webfont.svg#venus_risingregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/header\/header\.scss}line{font-family:\000031}}
+.header {
+  background: url(assets/images/bg.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 1em;
+  box-shadow: inset 0 -2px 6px rgba(0, 0, 0, 0.2);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/header\/header\.scss}line{font-family:\0000310}}
+.header h2 {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/header\/header\.scss}line{font-family:\0000317}}
+.off-screen {
+  position: absolute;
+  left: -9999px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/header\/header\.scss}line{font-family:\0000322}}
+.hero {
+  width: 100%;
+  max-width: 40em;
+  margin: 0 0 1em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\000033}}
+.content {
+  position: relative;
+  padding: 2em 1em 2em 1em;
+  color: #06b30e;
+  margin: 0 0 4em 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (min-width: 48em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\000033}}
+  .content {
+    width: 100%;
+    max-width: 64em;
+    padding-right: 22em;
+    margin: 0 auto 4em auto;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\0000318}}
+.content h3 {
+  margin: 2em 0 1em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\0000322}}
+.content h2, .content h3 {
+  color: #07e011;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\0000325}}
+.content h2:before, .content h3:before {
+  content: '>';
+  margin: 0 0.5em 0 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/content\.scss}line{font-family:\0000331}}
+.content .highlight {
+  color: #07e011;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\000033}}
+.unit {
+  position: relative;
+  border: 1px solid #06b30e;
+  padding: 1em 1em 0 1em;
+  margin: 0 0 1em 0;
+  border-radius: 0.1em;
+  background: #012b03 no-repeat;
+  background-position: 50% 3em;
+  background-size: auto 8em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/mixins\.scss}line{font-family:\0000317}}
+.unit:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000314}}
+.unit h4 {
+  margin: 0 0 10em 0;
+}
+@media (min-width: 32em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\000033}}
+  .unit {
+    background-position: 1em 60%;
+    background-size: 8em auto;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000322}}
+  .unit h4 {
+    margin: 0 0 1em 0;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000326}}
+  .unit > p {
+    padding: 0 0 0 9em;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000332}}
+.file-not-found {
+  position: absolute;
+  top: 5em;
+  left: 1em;
+  right: 1em;
+  padding: 1em;
+  box-sizing: border-box;
+  background-color: black;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000342}}
+.file-not-found p {
+  margin: 0;
+}
+@media (min-width: 32em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/unit\.scss}line{font-family:\0000332}}
+  .file-not-found {
+    top: auto;
+    width: 8em;
+  }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\000033}}
+aside {
+  font-style: italic;
+  padding: 0;
+  margin: 0 0 1em 0;
+  color: #c8c8c8;
+  visibility: visible;
+  margin: 2em 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000312}}
+aside:first-child {
+  margin-top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000316}}
+aside p {
+  font-family: 'Iceberg';
+  line-height: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000321}}
+aside p:last-child {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000325}}
+aside strong {
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  font-size: 1.2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000331}}
+aside.visible {
+  visibility: visible;
+}
+
+@media (min-width: 48em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000337}}
+  aside {
+    margin: 0;
+    position: absolute;
+    width: 19em;
+    right: 1em;
+    visibility: hidden;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/content\/aside\/aside\.scss}line{font-family:\0000345}}
+  .aside-content {
+    position: relative;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/footer\/footer\.scss}line{font-family:\000033}}
+.footer {
+  background-color: #012b03;
+  padding: 1em;
+  text-align: center;
+  color: #06b30e;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/haggis\/Google\%20Drive\/dev\/sg\/wellcome-trust\/main\/src\/styles\/footer\/footer\.scss}line{font-family:\000039}}
+.footer p {
+  margin: 0;
+}
