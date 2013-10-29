@@ -29,7 +29,8 @@ module.exports = function(grunt) {
 		clean: {
 			tmp: [ 'tmp' ],
 			generated: [ 'generated' ],
-			appfog: [ 'appfog/public' ]
+
+			ghpages: [ '../gh-pages', '!../.git' ]
 		},
 
 
@@ -45,65 +46,30 @@ module.exports = function(grunt) {
 				options: {
 					debugInfo: true
 				}
-			},
-			dist: {
-				files: {
-					'appfog/public/min.css': 'project/styles/*.scss'
-				}
 			}
 		},
 
 
-		// Copy the files we need from the src folder to appfog/public
+		// Copy the files we need from the src folder...
 		copy: {
-			generated: {
-				files: [{
-					expand: true,
-					cwd: 'generated',
-					src: ['**'],
-					dest: 'appfog/public'
-				}]
-			},
-			root: {
+			// ...to generated
+			rootToGenerated: {
 				files: [{
 					expand: true,
 					cwd: 'project/root',
 					src: ['**'],
-					dest: 'appfog/public'
+					dest: 'generated'
 				}]
-			}
-		},
-
-		// launch a static server
-		connect: {
-			options: {
-				port: 1234,
-				keepalive: true
 			},
-			server: {
-				options: {
-					middleware: function ( connect, options ) {
-						return [
-							// try project/root first
-							connect[ 'static' ]( 'project/root' ),
 
-							// then auto-generated files in 'generated'
-							connect[ 'static' ]( 'generated' ),
-
-							// browse directories
-							connect.directory( options.base, {
-								hidden: true,
-								icons: true
-							})
-						];
-					}
-				}
-			},
-			sanitycheck: {
-				options: {
-					port: 2345,
-					base: 'appfog/public'
-				}
+			// ...to gh-pages sibling
+			generatedToPages: {
+				files: [{
+					expand: true,
+					cwd: 'generated',
+					src: ['**'],
+					dest: '../gh-pages'
+				}]
 			}
 		},
 
@@ -164,6 +130,16 @@ module.exports = function(grunt) {
 					}
 				]
 			}
+		},
+
+		connect: {
+			server: {
+				options: {
+					port: 1234,
+					base: 'generated',
+					keepalive: true
+				}
+			}
 		}
 
 	});
@@ -180,7 +156,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-sg-parse');
 	grunt.loadNpmTasks('grunt-sg-generate');
 
-	grunt.registerTask( 'build', [ 'default', 'clean:appfog', 'copy' ] );
+	grunt.registerTask( 'build', [ 'default', 'copy:generatedToPages' ] );
 
 	// Default task.
 	grunt.registerTask( 'default', [
@@ -190,11 +166,8 @@ module.exports = function(grunt) {
 		'parse',
 		'dir2json',
 		'generate:partials',
-		'generate:pages'
+		'generate:pages',
+		'copy:rootToGenerated'
 	]);
-
-	// aliases
-	grunt.registerTask( 'server', 'connect:server' );
-	grunt.registerTask( 'sanitycheck', 'connect:sanitycheck' );
 
 };
