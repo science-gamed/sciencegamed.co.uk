@@ -1,13 +1,12 @@
 <!doctype html>
 <html lang='en-GB'>
 <head>
-<meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>	
-	<title>Our blog | Science: Gamed</title>
-	
+	<meta charset='utf-8'>
+	<title>Science: Gamed</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>
+
 <!-- Google Web Fonts -->
-<link href='http://fonts.googleapis.com/css?family=Varela+Round|Dosis:400,700|Unica+One' rel='stylesheet'><link rel='shortcut icon' type='image/png' href='/favicon.png' /><!-- Site CSS -->
-<link rel='stylesheet' href='/min.css'><script type="text/javascript">
+<link href='http://fonts.googleapis.com/css?family=Varela+Round|Dosis:400,700|Unica+One' rel='stylesheet'><link rel='shortcut icon' type='image/png' href='/favicon.png' /><link rel='stylesheet' href='/min.css'><script type="text/javascript">
 
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-39180424-1']);
@@ -24,178 +23,61 @@
 <body>
 
 	
-<div class='header'>
-	<div class='nav non-index-nav'>
-		<a href='/'><div class='logo'></div></a>
+	<div class='header'>
+		<div class='nav index-nav'>
+			<ul>
+				<li><a href='/'>home</a></li>
+				<li><a href='/about.html'>about us</a></li>
+				<li><a href='/blog/'>our blog</a></li>
+				<li><a href='/science/'>science stuff</a></li>
+				<li><a href='/games.html'>games</a><li>
+			</ul>
+		</div>
 
-		<ul>
-			<li><a href='/'>home</a></li>
-			<li><a href='/about.html'>about us</a></li>
-			<li><a href='/blog/'>our blog</a></li>
-			<li><a href='/science/'>science stuff</a></li>
-			<li><a href='/games.html'>games</a><li>
-		</ul>
+		<div class='logo-hero'>
+			<h1>Science: Gamed</h1>
+			<h2>we make games inspired by real science</h2>
+		</div>
 	</div>
-</div>
+
 	<div class='content'>
 		<div class='main'>
+			<div class='block promo box' id='monkey-panic'>
+				<a class='centered' href='/monkey-panic.html'><img src='assets/monkey-panic/logo.svg'></a>
+				
+				<p>Can you help save the monkeys and spot the predator? Protect the primates in this exciting new mobile puzzle game. The game is built around real animal behaviour research. How do young monkeys learn to avoid snakes? What frightens a Chacma baboon? Find the answers and more in Monkey Panic!</p>
+
+				<p>Become a Beta Baboon and be the first to help play test the game by signing up to our email list below!</p>
+
+				<!-- Begin MailChimp Signup Form -->
+				<div id='mc_embed_signup'>
+					<form action='http://sciencegamed.us6.list-manage1.com/subscribe/post?u=5c8641edebf0aefe6be24b8f3&amp;id=8d236387e2' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' class='validate' target='_blank' novalidate>
+						<input type='email' value='' name='EMAIL' class='email' id='mce-EMAIL' placeholder='enter your email address' required>
+						<input type='submit' value='Subscribe! &raquo;' name='subscribe' id='mc-embedded-subscribe' class='button'>
+					</form>
+				</div>
+				<!--End mc_embed_signup-->
+
+			</div>
+
 			<div class='block'>
-				<h1>Our blog</h1>
 
-<div class='post-preview'>
-	<h2><a href='/blog/2014/jun/sors-devlog-partone.html'>SORS dev log part 1 - Life&#39;s easier when you KISS</a></h2>
-	
-	<p><em>This is the first in a series of posts in which we ‘celebrate’ the release of our first game demo, SORS, by discussing its design and development. <a href="http://www.sciencegamed.co.uk/games/sors/demo.html">You can play a demo of SORS here.</a></em></p>
-
-<p>There’s an acronym they use in the army (I’m aware of it from my hardened days in the school cadet force, and when I say hardened, I mean I was a pretty fat teenager in a uniform). It’s known as KISS, and stands for Keep It Simple, Stupid.</p>
-
-<p>How apt this is for game design! When I started designing SORS (in my head) I had a grand picture of how the game would work. You’d make money! You could buy upgrades or research stuff! You can track your relationship with different peer groups! Awesome!</p>
-
-<p>No, not awesome. Complicated. It was only when I got to building the demo that I realised half this stuff had to go. There was too much stuff happening, too many things for the player to manage. </p>
-
-<p>It didn’t help that I was learning to code as well. </p>
-
-<p>Actually, that’s a lie, it did. Developing every feature of the game was so painful that I had to be sure it was what the game <em>really</em> <em>really</em> <em>really</em> needed. And you know what? The game didn’t need many of those things.</p>
-
-<p>As I examined some of these things in-between frustrating (but extremely insightful) programming sessions, questions arose and it become much clearer whether the features were good or not.</p>
-
-<p>Take upgrades and money for example. Everyone loves getting money in games and spending it on upgrades. But building an upgrade system is tricky,  not least because it needs to be finely balanced- otherwise players will just go for the obviously best upgrades, which then makes the benefit of choice offered by the system just an illusion in reality.</p>
-
-<p>The original plan was to allow players to upgrade certain aspects of the scanning equipment they use, such as the speed at which the scanner moves, the scanning speed and the amount of ‘noise’ (error points) it produces. However, to implement an upgrade system would mean starting the players with an inferior system, which would make the initial scanning challenges harder/more tedious. I eventually realised that actually, at its heart this is a puzzle game and therefore an upgrade system should not be the focus.</p>
-
-<p>Very similar to upgrades, I had planned to implement a ‘reputation’ system. You could choose to do things for the hospital management, your colleagues, or patients, and these choices would cause different groups to (dis)like you more or less. However, again after examination, I started wondering what this would add to the game. I originally wanted this system to offer players the chance to play the game as they want to (ie: choose to work with whichever group they preferred), but whenever I thought about it, it just felt a bit…tacked on. It didn’t feel natural.</p>
-
-<p>In the end I took elements of this system and worked them into the game, and it feels much better and more natural. Players can still make choices when they are offered (via the email screen), but there is no ‘relationship meter’, which would just look weird. As the game is semi-realistic (although the premise is sci-fi, the story is built on the player’s relationship with the characters), why not keep the relationships aspect realistic also? Players make a choice…and may not get direct feedback as to what effect that choice has had. This (in my opinion) makes the game and story more interesting.</p>
-
-<p>(As an aside, direct feedback is incorporated in the puzzle/action part of the game. It’s important players get feedback quickly on key actions, in this case diagnosing patients, so they can change their gameplay to try and correct errors).</p>
-
-<p>So in summary, a key lesson I’ve learnt is to keep it simple. Examine every design decision you make and ask whether it’ll benefit the game and the player. It may sound good in your head, but as the game and concept develop, the idea may not fit in anymore.</p>
-
-<p>Keep it simple, stupid!</p>
-</div><div class='post-preview'>
-	<h2><a href='/blog/2013/jul/parasites-and-zombies-both-want-braaaiiins.html'>Parasites and zombies both want braaaiiiiins</a></h2>
-	
-	<p>It starts off as an urge. You’re not sure why, but you’re craving something. Soon it starts to take hold- it’s all you can think about. It starts to make you mad, you can’t take it any more. You have to <em>do this thing</em>, something in your head is telling you.  You can’t let go of it, and gradually your own free will fades and you become a mindless slave. Your life is over.</p>
-
-<p>The above could be a paragraph describing the infection wrought by the <em>Cordyceps</em> genus of parasitic fungus that is at the heart of the apocalypse in the Playstation 3 game <em>The Last of Us</em>. The game, critically acclaimed, has also been welcomed because it is <a href="http://blogs.scientificamerican.com/overthinking-it/2013/06/25/the-fungus-that-reduced-humanity-to-the-last-of-us">based on a real life parasitic fungus.</a></p>
-
-<p>It also helps to remind us all of just how amazing (and scary) nature really is. </p>
-
-<p>But have you heard about the other things in nature that can turn animals into zombies by targeting the brain and changing behaviour? </p>
-
-<p>If you think of your standard zombie apocalypse, it can be summarised in these three points:</p>
-
-<ol>
-<li>An infection of some kind is the causative agent</li>
-<li>This infection changes their behaviour to make them more aggressive, and want to bite/eat other humans </li>
-<li>When a non-infected human gets bitten, they too get the infection and their behaviour is changed.</li>
-</ol>
-
-<p>Well guess what.....nature already does that. Luckily Mother Nature isn’t a patent troll, so Romero can keep his cash. Here's a look at a few of the behaviour-altering parasites from nature that you (probably) have never heard of.</p>
-
-<h2><em><strong>Toxoplasma gondii</strong></em></h2>
-
-<h3><strong>Unlucky victims</strong> – Rodents</h3>
-
-<p>A parasite that can only sexually reproduce in cats, when <em>T.gondii</em> infects a rodent (which can be done through eating infected cat faeces or anything that has touched it), it needs to find a way to get back into a cat.  Cue a little behavioural change in the rodent. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11007336">Experiments have shown</a> that infected rodents are less averse to cat odours than normal, thereby increasing their chance of getting caught by a cat. Good for <em>T.gondii</em>, bad for mousey.</p>
-
-<p>Other warm-blooded mammals can be infected by ingesting infected substances, <strong>including humans</strong>. Although rodents are the only species that seems to undergo a severe behavioural change, it is thought that <em>T.gondii</em> has been <a href="http://www.biomedcentral.com/1471-244X/4/1">responsible for schizophrenia and depression in humans.</a></p>
-
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/3/3c/Toxoplasma_gondii_tissue_cyst_in_mouse_brain.jpg" alt="Thousands of <em>T.gondii</em> parasites in a cyst inside mouse brain tissue." title="" />
-<sup>Thousands of <em>T.gondii</em> parasites (stained red) in a cyst inside mouse brain tissue.</sup></p>
-
-<h2><em><strong>Euhaplorchis californiensis</strong></em></h2>
-
-<h3><strong>Unlucky victims</strong> - Killifish</h3>
-
-<p>Known as a ‘brain-encysting trematode’, this parasite’s lifecycle is: shorebird- hornsnail- killifish. After sexually reproducing and finishing its lifecycle in a shorebird, its eggs are released in the bird’s droppings. Hornsnails, which consume the droppings (as they graze) act as the first intermediary host.</p>
-
-<p>The consumed parasites inhibit the unlucky snail’s sex drive by castrating it (yes, that’s not a typo). They then replicate (asexually) inside the snail. As the parasitic larvae mature, they break out of the snail and swim freely in the water, until they find their 2nd intermediary host- the killifish.</p>
-
-<p>Once in the killifish, the parasites alter the fish’s behaviour to make it 30 times more likely to be caught by a bird and eaten, thus completing the lifecyle of the parasite (<a href="http://fuschmu.wordpress.com/tag/euhaplorchis-californiensis/">read more</a> on this gruesome lifecyle or <a href="http://www.youtube.com/watch?v=f5UzztCns-Y">watch a documentary that could be a horror film</a>). </p>
-
-<p>Interestingly, the mechanism is similar to the <em>T.gondii</em> parasite- it supresses a common stress response in the fish and also makes them visit the water surface more often, increasing their chances of getting caught by shorebirds.</p>
-
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/6/65/Fundulopanchax_gardneri.png" alt="The killifish is a host for <em>Euhaplorchis californiensis</em> " title="" />
-<sup>'I have a sudden urge to get myself noticed'</sup></p>
-
-<h2><em><strong>Dicrocoelium dendriticum</strong></em></h2>
-
-<h3><strong>Unlucky victim</strong> - Ant</h3>
-
-<p>Yes, it’s the poor ant again (they are also a <a href="http://www.youtube.com/watch?v=XuKjBIBBAL8">host of the parasitic fungus <em>Cordyceps</em> mentioned earlier</a>), and another Trematode, or parasite worm, or “fluke” as they’re sometimes called.</p>
-
-<p>In this case, the ant is the 2nd intermediary host after a snail, with the primary host being cattle or livestock. Ants use snail trails as a source of moisture, and in doing so can ingest a parasite cyst, full of juvenile flukes….and it then becomes infected.</p>
-
-<p>Most of the parasites stay in the ant’s main body cavity (the haemocoel) whilst they mature. However some travel to a cluster of nerve cells near the ant’s esophagus. There they manipulate the ant. How? At dusk, as the air cools and sun retreats, the infected ant will leave its colony, go find a tall grass stem, clamp its mandibles and stay there until dawn. At dawn the ant regains control and goes about its daily business as usual (to stay there in the sun would be death for both ant and parasite). When night falls, it repeats this morbid behaviour. The reason? At the top of a grass stem, it is more likely to be eaten by grazing cattle, and the parasite then completes its lifecycle.</p>
-
-<p>The unlucky news for us is that humans can also get infected, through eating undercooked infected animal liver. This leads to a ‘pseudoparasite’ infection, because it is temporary- the parasites will survive in the intestine but be released from the body by defecation. For a more serious infection, you’d need to eat the two intermediary hosts- snails or ants (seriously, <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2660816/">it can happen</a>- drinking water with an ant in it or eating raw salad or vegetables containing infected ants).</p>
-
-<p><img src="http://en.citizendium.org/images/3/39/800px-Ant_on_leaf.jpg" alt="‘Something tells me I should just hang here for awhile’" title="" />
-<sup>‘Something tells me I should just hang here for awhile’ <br> (Image courtesy of http://en.citizendium.org/wiki/dicrocoelium_dendriticum)</sup></p>
-
-<p>And so ends our trip amongst a few lesser known parasites that alter behaviour. If we look back at our ‘zombie-checklist’ from earlier:</p>
-
-<ol>
-<li>An infection is the causative agent- check, in these cases a lovely parasite.</li>
-<li>Behaviour altering? Yep. </li>
-<li>Biting spreads the infection. Ok so not really, but hey - two out of three ain’t bad (as Meatloaf sang).</li>
-</ol>
-
-<p>Ok, so there are some differences. For one, in no instance are any hosts ‘dead’ but still functioning- they’re always alive. Also none of them cause their hosts to start eating their friends- but once you move past that you’ll see what you thought were the realms of fantasy are actually grounded firmly in reality. And despite two of the three being known to infect humans, as we are not standard hosts for these parasites the effect they have (if any) is wildly different to what they do during their natural lifecycle, so you shouldn't be too worried about seeing a human zombie shuffle past any time soon.</p>
-
-<p>There are probably some of you who have been shouting and screaming throughout this article, “What about Rabies!?”. Well, you’d be right. The rabies virus does present itself as a very likely <a href="http://www.theverge.com/2013/4/18/4201878/sick-idea-how-rabies-spawned-vampires-and-zombies">source for zombies and, perhaps surprisingly, vampires, in popular culture.</a> </p>
-
-<p>The fact is, it’s quite surprising that <em>The Last of Us</em> is really the first big game to utilise parts of nature like this, because when you look at it, there really are some weird, funky and downright gruesome things that happen in the natural world- all, oddly enough, in the name of survival - just not the host’s survival.</p>
-
-<p><em>All images courtesy of Wikimedia Commons, unless otherwise stated.</em></p>
-</div><div class='post-preview'>
-	<h2><a href='/blog/2013/may/science-and-video-games.html'>Science and Video Games- the surprising similarities</a></h2>
-	
-	<p>If video games and the media were a couple, they'd be the loud, passionate/obnoxious (delete as applicable) pair that often graces a party. You know the type- fighting one minute (violent video games cause real-world violence!), passionately kissing the next (<a href="http://healthland.time.com/2013/05/03/video-games-are-not-just-childs-play-gaming-could-slow-mental-decay/">video games slow mental decline</a>) or sneaking off to the closet for a quickie (advertising video games). </p>
-
-<p>But what about video games and science? A less obvious pair like the quiet couple by the wall, perhaps, but as is often the case, a couple of more integrity, sense and history than the loud couple everyone notices.</p>
-</div><div class='post-preview'>
-	<h2><a href='/blog/2013/mar/video-game-design-art.html'>Monkey Panic Game Design and Art</a></h2>
-	
-	<p>So we’ve been hard at work this week finalising the game design of Monkey Panic. In light of that I want to take this blog post and discuss game design for a moment.</p>
-
-<p>Game design is about creating the mechanics (rules, rewards, punishments, etc) for the game. It’s probably not something you’ve thought about because any good games you’ve played will have been designed so well, you won’t notice that you’re learning a new set of rules to play them with.  Also, you’ll only be playing with the final design, which are actually based on many iterations of failed designs before them.</p>
-</div><div class='post-preview'>
-	<h2><a href='/blog/2013/mar/march-post.html'>A new beginning....(and new website)</a></h2>
-	
-	<p>Welcome to our brand spanking new website! We're currently developing an exciting new game called Monkey Panic. This will be the first in a long line of great games we've got planned that will showcase the wonder of the natural world. Sign up to our email list so we can keep you updated on the progress (and be first to hear about exciting opportunities to get involved). In the meantime stick around, enjoy the site and find out some new stuff. </p>
-
-<p>Feedback? Questions? Ideas? Great! We'd love to hear from you. Get in touch and <a href="mailto:hello@sciencegamed.co.uk">email us</a>.</p>
-</div>			</div>
+			</div>
 		</div>
 
 
-		<div class='aside box'>
-			<div class='block'>
-<h2>Coming soon</h2>
-<a href='/#monkey-panic'><img src='/assets/monkey-panic/logo-solo.svg'></a>
-<p>Protect the primates from prowling predators in this perplexing fast-paced puzzler. <a class='more-info' href='/#monkey-panic'>More info &raquo;</a></p>			</div>
-			
+		<div class='aside'>
 			<div class='block'>
 <h2>About us</h2>
 <p>We develop digital games inspired by real science. Our games are for everyone and you don’t need to know any science to play them – we want players to have fun, but if you feel like learning a bit about the world along the way, our games let you do that too (and then you can impress your friends with knowledge).</p>
 
 <p><a class='more-info' href='/about.html'>more about <span class='science-gamed'><span class='science'>Science:</span> <span class='gamed'>Gamed</span></span> &raquo;</a></p>			</div>
-
-			<div class='block'>
-<h2>@ScienceGamed</h2>
-<a class="twitter-timeline" height='500' href="https://twitter.com/ScienceGamed" data-chrome="noborder transparent" data-widget-id="351835294561087488">Tweets by @ScienceGamed</a>
-
-<script>
-	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
-			</div>
 		</div>
 	</div>
 
 
-<div class='footer'>
-	<p>Science: Gamed LLP registered no. OC371281. Website content and design copyright &copy; 2012</p>
-</div></body>
+	<div class='footer'>
+		<p>Science: Gamed LLP registered no. OC371281. Website content and design copyright &copy; 2012-13</p>
+	</div>
+</body>
 </html>
