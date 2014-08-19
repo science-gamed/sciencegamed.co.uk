@@ -27,6 +27,7 @@ h2 {
 a {
 	color: #FCFF0A;
 	text-decoration: none;
+
 }
 
 .sors {
@@ -76,13 +77,12 @@ a {
  	width: auto\9; /* ie8 */
 	border-bottom: 1px solid #999;
 	box-shadow: 0px 1px 7px rgba(0,0,0,0.2);
-	}
+
 }
 
 .screenshot {
 	max-width: 70%;
 	height: auto;
-	width: auto\9; /* ie8 */
 	margin: 0 1em 1em 0;
 	border: 1px solid #FFF;
 
