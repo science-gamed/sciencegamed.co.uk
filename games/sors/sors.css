@@ -83,6 +83,7 @@ a {
 .screenshot {
 	max-width: 70%;
 	height: auto;
+	width: auto\9; /* ie8 */
 	margin: 0 1em 1em 0;
 	border: 1px solid #FFF;
 
