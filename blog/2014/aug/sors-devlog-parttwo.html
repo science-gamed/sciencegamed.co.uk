@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang='en-GB'>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1'>	
+	<title>SORS Dev Log Part 2 –  Pretty Pictures and Text Mountains | Science: Gamed</title>
+	
+<!-- Google Web Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Varela+Round|Dosis:400,700|Unica+One' rel='stylesheet'><link rel='shortcut icon' type='image/png' href='/favicon.png' /><!-- Site CSS -->
+<link rel='stylesheet' href='/min.css'><script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-39180424-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script></head>
+
+<body>
+
+	
+<div class='header'>
+	<div class='nav non-index-nav'>
+		<a href='/'><div class='logo'></div></a>
+
+		<ul>
+			<li><a href='/'>home</a></li>
+			<li><a href='/about.html'>about us</a></li>
+			<li><a href='/blog/'>our blog</a></li>
+			<li><a href='/science/'>science stuff</a></li>
+			<li><a href='/games.html'>games</a><li>
+		</ul>
+	</div>
+</div>
+	<div class='content'>
+		<div class='main'>
+			<div class='block'>
+<div class='post'>
+	<h1>SORS Dev Log Part 2 –  Pretty Pictures and Text Mountains</h1>
+		<div class='tags'>
+			<p>Tagged under <a href='/blog/tags/SORS.html'>SORS</a> <a href='/blog/tags/science.html'>science</a> 
+		</div>
+
+
+	<p>Thanks to our early demo releases, we’ve had some good feedback on SORS so far. One thing that’s become apparent is that a lot of people were skimming through the text in the game. The fools! How can they play a game and skim through the text! They’re obviously ‘noobz’.</p>
+
+<!-- break -->
+
+<p>I am joking, of course. You’ve probably heard the phrase ‘the customer’s always right’, and a similar phrase is true in game design – the player is ALWAYS right. Player got bored? Tough. Player skimmed text? Tough. Player quit? Tough. You (as the game designer) didn’t make that part of the game engaging enough. </p>
+
+<p>Obviously people not reading text in the game is a problem, as in SORS the text conveys important game information and interesting science. </p>
+
+<p>Take a look at the ‘before’ screenshot below from the game. It’s dull. Very dull. How did I not spot this whilst making the first demo? Well, when you’ve spent months creating something, you tend to lose a bit of perspective, which is why getting fresh faces to playtest is so important. </p>
+
+<p><img src="http://www.sciencegamed.co.uk/games/sors/diagnosis-guide-old.png" alt="Before shot - <em>SORS</em> diagnosis guide screen" title="" /></p>
+
+<p>So how to fix this? I decided on two key things to make this text more engaging – modularise it, and add some nice pretty pictures/animations.</p>
+
+<h2><em><strong>No walls of text</strong></em></h2>
+
+<p>Walls of text are generally a bad idea. They put people off, instantly creating a daunting textual Kilimanjaro that the reader sees they have to climb. It’s why newspapers (and scientific papers) are written in columns. Games also tend to be text-light (unless they’re a text adventure or something similar). </p>
+
+<p>However, they’re not always bad in games. If a player is emotionally invested in a game, they will gladly trawl through text. A good example is the original Alone in the Dark game. There were lots of books throughout the game that added to the atmosphere, filled in the backstory to the game and helped the player solve puzzles. Speaking from my experience of playing the game, I was certainly happy to read through this text because of these points. </p>
+
+<p><img src="http://img.gamefaqs.net/screens/6/1/a/gfs_29584_2_8.jpg" alt="In-game text from <em>Alone in the Dark</em>. Image courtesy of GameFaqs user Ofisil." title="" /></p>
+
+<p>Another example is BioWare’s Mass Effect series. There are lots of text-pads with background information on the game universe scattered around the game. They add depth and atmosphere to the game, but crucially are not obstructive – players don’t HAVE to read them in order to progress through the game.</p>
+
+<p><img src="http://86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2010/02/mass-effect-2-small-text-fix-not-coming-says-bioware.jpg" alt="In-game text from <em>Mass Effect 2</em>. Image courtesy of videogamesblogger.com." title="" /></p>
+
+<p>In SORS we’ve adapted this principle of making background, informational text optional. Players will, however, have to read through game-relevant text before progressing. This seems like a sensible compromise. With important text, better to err on the side of caution and force the player to look at it, rather than risk the chance they miss it and become frustrated with the game when they’re not sure what to do. So how to make this text engaging?</p>
+
+<h2><em><strong>Pretty moving pictures</strong></em></h2>
+
+<p>It’s quite an obvious principle. It’s why seemingly all modern websites these days, especially for tech start-ups, generally have a video as the first thing users see on their website. Humans are lazy. Why read something when you can watch about it instead?</p>
+
+<p>In SORS, videos would be nice, but actually working through the details reveals that gif-esque short animations accompanied by a short bit of text are just as effective, as well as being cheaper and easier to implement. These short clips mean that players can easily see what is meant by some game text, and how it relates to the game interface.</p>
+
+<p>The general layout of text screens has also been addressed, to make it look more like a ‘futuristic’ UI console, whilst also separating the text out so that players aren’t presented with it all at once.</p>
+
+<p>The current version of the same SORS screen shown initially is below. As you can see (and hopefully agree) it looks much neater, less daunting, and more helpful as it splits the text up and provides a short animation to help illustrate what is being said. </p>
+
+<p><img src="http://www.sciencegamed.co.uk/games/sors/diagnosis-guide-new.png" alt="After- new <em>SORS</em> diagnosis guide screen" title="" /></p>
+
+<p>There will undoubtedly be further changes to come for many of the screens as play-testing and gathering feedback continues, but it feels like this is a step in the right direction for making the game engaging for players, whilst also offering them the chance to read more about the science in the game.</p>
+</div>			</div>
+		</div>
+			<div class='block'>
+				<script>
+					disqus_identifier = 'blog/2013/jul/parasites-and-zombies-both-want-braaaiiins.html';
+				</script>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'sciencegamed'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+			</div>
+		</div>
+
+		<div class='aside box'>
+			<div class='block'>
+<h2>Recent blog posts</h2>
+<ul>
+	<li><a href='/blog/2014/jun/sors-devlog-partone.html'>SORS dev log part 1 - Life&#39;s easier when you KISS</a></li>
+	<li><a href='/blog/2013/jul/parasites-and-zombies-both-want-braaaiiins.html'>Parasites and zombies both want braaaiiiiins</a></li>
+	<li><a href='/blog/2013/may/science-and-video-games.html'>Science and Video Games- the surprising similarities</a></li>
+	<li><a href='/blog/2013/mar/video-game-design-art.html'>Monkey Panic Game Design and Art</a></li>
+	<li><a href='/blog/2013/mar/march-post.html'>A new beginning....(and new website)</a></li>
+</ul>			</div>
+
+			<div class='block'>
+<h2>@ScienceGamed</h2>
+<a class="twitter-timeline" height='500' href="https://twitter.com/ScienceGamed" data-chrome="noborder transparent" data-widget-id="351835294561087488">Tweets by @ScienceGamed</a>
+
+<script>
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+			</div>
+		</div>
+	</div>
+
+
+<div class='footer'>
+	<p>Science: Gamed LLP registered no. OC371281. Website content and design copyright &copy; 2012-2014</p>
+</div></body>
+</html>
