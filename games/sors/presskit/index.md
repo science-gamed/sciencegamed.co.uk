@@ -68,19 +68,15 @@ download logo files as ** [.zip (520 Kb)]( assets/images/logo.zip "Logo & Icon z
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
-
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
 
 ## Selected Articles
 
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
+> * "a unique sci-fi doctor simulator with an underlying story of subterfuge and conspiracy"  
+-- *Jupiter Hadley, [Alpha Beta Gamer](http://www.alphabetagamer.com/s-o-r-s-game-jam-build-download/)*
 
 
-> * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
+> * "I am now looking forward to the final product..."  
+-- *Sebastian Standke, [Super Level (German language)](http://superlevel.de/spiele/indie-spiele/alphalevel-s-o-r-s/)*
 
 
 ## Additional Links
