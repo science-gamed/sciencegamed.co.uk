@@ -5,21 +5,22 @@
 **Developer:**  
 Science: Gamed
 
-**Founding date:**  
-Jan 2012
+**Release Date:**  
+Feb 2015
 
 **Website:**  
-[sciencegamed.co.uk](http://www.sciencegamed.co.uk)
+[sciencegamed.co.uk/games/sors](http://www.sciencegamed.co.uk/games/sors)
 
 **Press / Business contact:**  
-[Rich Chatwin][contact]
+[rac@sciencegamed.co.uk][contact]
 
 **Social:**  
 [Twitter][twitter]  
 [Facebook][facebook]  
 
-**Releases:**  
-[S.O.R.S](http://www.sciencegamed.co.uk/games/sors)  
+**Platforms:**  
+PC
+Mac
 
 
 ## Description
@@ -36,9 +37,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Projects
-
-* [exampleproject][example_project]
 
 ## Videos
 
