@@ -9,7 +9,7 @@ Science: Gamed
 Jan 2012
 
 **Website:**  
-[sciencegamed.co.uk](http://sciencegamed.co.uk)
+[sciencegamed.co.uk](www.sciencegamed.co.uk)
 
 **Press / Business contact:**  
 [rac@sciencegamed.co.uk][contact]
