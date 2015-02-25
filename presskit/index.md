@@ -121,7 +121,7 @@ Another of these. See [here](https://link)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://sciencegamed.co.uk "Company Name"
+[homepage]: sciencegamed.co.uk "Company Name"
 
 [contact]: mailto:press-contact@company.com
 
