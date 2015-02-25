@@ -19,7 +19,7 @@ Jan 2012
 [facebook.com/Science-Gamed][facebook]  
 
 **Releases:**  
-[sciencegamed.co.uk/games/sors][SORS]
+[facebook.com/Science-Gamed][facebook]  
 
 
 ## Description
