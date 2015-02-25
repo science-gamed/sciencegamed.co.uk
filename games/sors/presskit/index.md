@@ -79,38 +79,33 @@ download logo files as ** [.zip (520 Kb)]( assets/images/logo.zip "Logo & Icon z
 -- *Sebastian Standke, [Super Level (German language)](http://superlevel.de/spiele/indie-spiele/alphalevel-s-o-r-s/)*
 
 
-## Additional Links
+## About Science: Gamed
 
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
+Science: Gamed was founded with one goal in mind: to inspire people with science, through games. We want people to be able to find out about both fundamental, established scientific principles and cutting edge research by having fun playing a game, without any prior knowledge required.
 
-**Company Link #2**  
-Another of these. See [here](https://link)
+But our games are built for everyone. If you're not a science nerd yet, we'll turn you into one. Promise.
 
-## Team & Repeating Collaborator
+## S.O.R.S Development Team
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**Rich Chatwin*  
+[Design & Code](http://www.sciencegamed.co.uk/about.html)
 
-**Another person's name**  
-[developer maybe](https://link)
+**James O'Reilly*  
+[Art](http://www.james-oreilly.com/)
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
+**Stanislav Botev**  
+[UI Design](http://thecarbonconcept.com/)
 
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[rac@sciencegamed.co.uk][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[Follow Science: Gamed][twitter]
 
 ** Facebook**  
-[facebook.com/companyname][facebook]
+[Like us on Facebook][facebook]
 
 **Web**  
 [companydomain.com][homepage]
@@ -118,7 +113,7 @@ Another of these. See [here](https://link)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]:sciencegamed.co.uk "Company Name"
+[homepage]:sciencegamed.co.uk "Science: Gamed"
 
 [contact]: mailto:rac@sciencegamed.co.uk
 
