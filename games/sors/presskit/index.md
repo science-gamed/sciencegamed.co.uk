@@ -43,9 +43,9 @@ Who will you believe? And how will you respond?
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
+The SORS teaser trailer:
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.youtube.com/embed/KONHrpCfeiU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
