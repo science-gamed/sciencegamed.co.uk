@@ -87,10 +87,10 @@ But our games are built for everyone. If you're not a science nerd yet, we'll tu
 
 ## S.O.R.S Development Team
 
-**Rich Chatwin*  
+**Rich Chatwin**  
 [Design & Code](http://www.sciencegamed.co.uk/about.html)
 
-**James O'Reilly*  
+**James O'Reilly**  
 [Art](http://www.james-oreilly.com/)
 
 **Stanislav Botev**  
@@ -108,7 +108,7 @@ But our games are built for everyone. If you're not a science nerd yet, we'll tu
 [Like us on Facebook][facebook]
 
 **Web**  
-[companydomain.com][homepage]
+[Science: Gamed homepage](http://www.sciencegamed.co.uk/)
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
