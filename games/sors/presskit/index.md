@@ -1,4 +1,4 @@
-# ![Science: Gamed](assets/images/header.png)
+# ![S.O.R.S](assets/images/header.png)
 
 ## Factsheet
 
