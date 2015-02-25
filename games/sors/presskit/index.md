@@ -1,4 +1,4 @@
-# ![Company Name](assets/images/header.png)
+# ![Science: Gamed](assets/images/header.png)
 
 ## Factsheet
 
