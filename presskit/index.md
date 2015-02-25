@@ -12,14 +12,14 @@ Jan 2012
 [sciencegamed.co.uk](http://www.sciencegamed.co.uk)
 
 **Press / Business contact:**  
-[rac@sciencegamed.co.uk][contact]
+[Rich Chatwin][contact]
 
 **Social:**  
-[twitter.com/ScienceGamed][twitter]  
-[facebook.com/Science-Gamed][facebook]  
+[Twitter][twitter]  
+[Facebook][facebook]  
 
 **Releases:**  
-[sciencegamed.co.uk/games/sors][S.O.R.S]  
+[S.O.R.S](http://www.sciencegamed.co.uk/games/sors)  
 
 
 ## Description
@@ -123,12 +123,12 @@ Another of these. See [here](https://link)
 
 [homepage]:sciencegamed.co.uk "Company Name"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:rac@sciencegamed.co.uk
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
-[facebook]: https://facebook.com/companyname
+[twitter]: https://twitter.com/ScienceGamed
+[facebook]: https://facebook.com/Science-Gamed
 [skype]: callto:companyskypename
 
 <!--- Projects  -->
