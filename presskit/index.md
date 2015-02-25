@@ -6,29 +6,21 @@
 Science: Gamed
 
 **Founding date:**  
-January 1, 2015
+Jan 2012
 
 **Website:**  
-[companydomain.com][homepage]
+[sciencegamed.co.uk][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[rac@sciencegamed.co.uk][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
+[twitter.com/ScienceGamed][twitter]  
+[facebook.com/Science-Gamed][facebook]  
 
 **Releases:**  
-[exampleproject][example_project]
+[www.sciencegamed.co.uk/games/sors][S.O.R.S]
 
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
 
 ## Description
 
