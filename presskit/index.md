@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+Science: Gamed
 
 **Founding date:**  
 January 1, 2015
