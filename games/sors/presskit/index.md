@@ -25,17 +25,20 @@ Mac
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+In the future, the world is on the brink of a population crisis. The world is running out of space. Prison ships float in the sky, citizens move between densely packed skyscrapers using 'pedwalks', and what remains of the ground is all but forgotten as mankind expands towards the sky. Hospitals are strained by the number of patients coming in.
 
-## History
+You are a new doctor in a high-tech hospital. But someone is hacking your systems. You need to find out who is behind this, and why, all whilst helping patients so that government healthcare targets are met.
 
-### Beginning
+Who will you believe? And how will you respond?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Second subhed if you want it!
+**Game Features:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 6 different endings based on player choice
+- Depending on player choice, gameplay varies and different challenges are experienced
+- Diagnose patients using a graph or False Colour Squares
+- Chat to patients to reduce complaints
+- Inspired by real science. Information in the game is based on real disease/treatment information
 
 
 ## Videos
