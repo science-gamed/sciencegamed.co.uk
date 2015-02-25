@@ -49,8 +49,8 @@ The SORS teaser trailer:
 
 <br>
 
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+Here's some music from our game. The soundtrack can be described as 'futuristic electronica'.
+<iframe src="https://www.youtube.com/embed/6IRn6SLs1sE" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
