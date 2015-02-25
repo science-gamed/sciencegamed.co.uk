@@ -54,7 +54,7 @@ Here's some music from our game. The soundtrack can be described as 'futuristic 
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (5.3Mb)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
@@ -63,7 +63,7 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 
 ## Logo & Icon
 
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+download logo files as ** [.zip (520 Kb)]( assets/images/logo.zip "Logo & Icon zip") **
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 [![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
