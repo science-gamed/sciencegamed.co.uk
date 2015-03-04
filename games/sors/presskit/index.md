@@ -43,9 +43,9 @@ Who will you believe? And how will you respond?
 
 ## Videos
 
-The SORS teaser trailer:
+The SORS launch trailer:
 
-<iframe src="http://www.youtube.com/embed/KONHrpCfeiU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.youtube.com/embed/d17Bj6N18mY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
