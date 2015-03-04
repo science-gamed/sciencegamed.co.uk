@@ -99,6 +99,10 @@ a {
 
 }
 
+.bodyText {
+	text-align: left;
+}
+
 .sors {
 		    font-family: 'borg_9regular';
 		    font-size: 6em;
