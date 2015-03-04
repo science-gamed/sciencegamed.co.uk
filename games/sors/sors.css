@@ -93,6 +93,11 @@ h3 {
 	letter-spacing: 0.06em;
 }
 
+.border {
+	padding-top: 0.5em;
+	  border-top: 1px solid #DDD;
+}
+
 a {
 	color: #FCFF0A;
 	text-decoration: none;
