@@ -40,6 +40,8 @@ Who will you believe? And how will you respond?
 - Chat to patients to reduce complaints
 - Inspired by real science. Information in the game is based on real disease/treatment information
 
+Although the game is made for anyone, it contains information and topics relevant to the classroom. We also believe that digital games will play a huge part in the future of education. Therefore we've produced an education guide to help teachers integrate the game into a lesson. You can get the guide [here.](	
+https://s3-eu-west-1.amazonaws.com/funsciencegames.co.uk/S.O.R.S+Education+guide+v1.0.pdf)
 
 ## Videos
 
