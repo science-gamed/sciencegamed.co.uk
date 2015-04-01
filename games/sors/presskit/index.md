@@ -51,8 +51,8 @@ The SORS launch trailer:
 
 <br>
 
-Here's some music from our game. The soundtrack can be described as 'futuristic electronica'.
-<iframe src="https://www.youtube.com/embed/6IRn6SLs1sE" frameborder="0" allowfullscreen></iframe>
+A SORS 'Let's Play' from youtuber JackAttack NZ:
+<iframe src="https://youtu.be/jJygarIO0po" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
