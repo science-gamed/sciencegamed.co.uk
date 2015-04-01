@@ -52,7 +52,7 @@ The SORS launch trailer:
 <br>
 
 A SORS 'Let's Play' from youtuber JackAttack NZ:
-<iframe src="https://youtu.be/jJygarIO0po" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.youtube.com/embed/jJygarIO0po?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
