@@ -1,0 +1,31 @@
+.gameDescriptionBox {
+	
+	display: inline-block;
+	background-color: rgba(0,3,255,0.72);
+	width: 100%;
+	border: 1px solid black;
+	margin: 0.3em;
+
+}
+
+.gameDescriptionTextRight {
+	text-align: center;
+	color: white;
+	margin: 0.3em;
+	padding-top: 2em;
+
+}
+
+.gamePlatformDescription {
+	text-align: center;
+	color: white;
+	margin: 0.3em;
+	padding-top: 6em;
+}
+
+.gamePicLeft {
+	float: left;
+	width: 40%;
+	margin: 0.3em;
+	border: 1px solid black;
+}
