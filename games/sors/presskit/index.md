@@ -73,12 +73,17 @@ download logo files as ** [.zip (520 Kb)]( assets/images/logo.zip "Logo & Icon z
 
 ## Selected Articles
 
+> * "fun and intriguing...and able to immerse the player in the experience."
+-- *Javier German, [Nivel Oculto Review (Spanish), awarded 'Recommended' rating](http://niveloculto.com/analisis-sors/)*
+
+> * "S.O.R.S...creates a wierd but unique sci-fi world around diagnostic equipment."
+-- *Leigh Alexander, [Offworld](http://boingboing.net/2015/07/20/medical-science-and-creepy-con.html)*
+
 > * "a unique sci-fi doctor simulator with an underlying story of subterfuge and conspiracy"  
 -- *Jupiter Hadley, [Alpha Beta Gamer](http://www.alphabetagamer.com/s-o-r-s-game-jam-build-download/)*
 
-
-> * "I am now looking forward to the final product..."  
--- *Sebastian Standke, [Super Level (German language)](http://superlevel.de/spiele/indie-spiele/alphalevel-s-o-r-s/)*
+> * "I am now looking forward to the final product"  
+-- *Sebastian Standke, [Super Level (German)](http://superlevel.de/spiele/indie-spiele/alphalevel-s-o-r-s/)*
 
 
 ## About Science: Gamed
