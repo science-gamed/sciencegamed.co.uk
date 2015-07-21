@@ -73,11 +73,11 @@ download logo files as ** [.zip (520 Kb)]( assets/images/logo.zip "Logo & Icon z
 
 ## Selected Articles
 
-> * "fun and intriguing...and able to immerse the player in the experience"
+> * "fun and intriguing...and able to immerse the player in the experience"  
 -- *Javier German, [Nivel Oculto Review (Spanish), awarded 'Recommended' rating](http://niveloculto.com/analisis-sors/)*
 
 
-> * "S.O.R.S...creates a wierd but unique sci-fi world around diagnostic equipment"
+> * "S.O.R.S...creates a wierd but unique sci-fi world around diagnostic equipment"  
 -- *Leigh Alexander, [Offworld](http://boingboing.net/2015/07/20/medical-science-and-creepy-con.html)*
 
 
