@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Cladonaut demo v0.1.1 WEB.data.unityweb",
+"asmCodeUrl": "Cladonaut demo v0.1.1 WEB.asm.code.unityweb",
+"asmMemoryUrl": "Cladonaut demo v0.1.1 WEB.asm.memory.unityweb",
+"asmFrameworkUrl": "Cladonaut demo v0.1.1 WEB.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
